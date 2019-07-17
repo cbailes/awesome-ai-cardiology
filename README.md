@@ -13,7 +13,8 @@ Patreon: https://www.patreon.com/craigbailes
 * [SajadMo/ECG-Heartbeat-Classification-seq2seq-model](https://github.com/SajadMo/ECG-Heartbeat-Classification-seq2seq-model) - Inter- and intra- patient ECG heartbeat classification for arrhythmia detection: a sequence to sequence deep learning approach
 * [nicolebrimmer/senior-thesis](https://github.com/nicolebrimmer/senior-thesis) - Predicting Ventricular Tachycardia Using LSTMs and ECG Signals
 * [pablocarreraflorez/heartbeat-deep-learning](https://github.com/pablocarreraflorez/heartbeat-deep-learning/blob/master/hearbeat.ipynb) - Experiments in deep learning with heartbeat signals derived from the MIT-BIH Arrhythmia Dataset and The PTB Diagnostic ECG Database
-* [SreehariRamMohan/Heart-Sounds-Deep-Learning](https://github.com/SreehariRamMohan/Heart-Sounds-Deep-Learning) - Diagnose heart arrhythmias using deep learning
+* [sbasu26/Predicting-Heart-Disease-using-ANN](https://github.com/sbasu26/Predicting-Heart-Disease-using-ANN) - Heart disease prediction using various approaches with Keras and Tensorflow
+* [SreehariRamMohan/Heart-Sounds-Deep-Learning](https://github.com/SreehariRamMohan/Heart-Sounds-Deep-Learning) - Diagnose heart arrhythmias using deep learning using low cost equipment
 
 ### Datasets
 * [ECG Heartbeat Categorization Dataset](https://www.kaggle.com/shayanfazeli/heartbeat) @ Kaggle
