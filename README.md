@@ -15,6 +15,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [pablocarreraflorez/heartbeat-deep-learning](https://github.com/pablocarreraflorez/heartbeat-deep-learning/blob/master/hearbeat.ipynb) - Experiments in deep learning with heartbeat signals derived from the MIT-BIH Arrhythmia Dataset and The PTB Diagnostic ECG Database
 * [sbasu26/Predicting-Heart-Disease-using-ANN](https://github.com/sbasu26/Predicting-Heart-Disease-using-ANN) - Heart disease prediction using various approaches with Keras and Tensorflow
 * [SreehariRamMohan/Heart-Sounds-Deep-Learning](https://github.com/SreehariRamMohan/Heart-Sounds-Deep-Learning) - Diagnose heart arrhythmias using deep learning using very low cost equipment
+* [Vikashtripathi/Deep-learning-for-heart-disease-prediction](https://github.com/Vikashtripathi/Deep-learning-for-heart-disease-prediction) - Deep neural network model for heart disease prediction using 10 practical datapoints
 * [sachanganesh/heartbeat-classification](https://github.com/sachanganesh/heartbeat-classification) - Deep Stethoscope: CNN Heartbeat Classifier
 
 ### Datasets
