@@ -11,6 +11,11 @@ Patreon: https://www.patreon.com/craigbailes
 * [limagbz/arrhythmia-alarms](https://github.com/limagbz/arrhythmia-alarms) - Detecting false arrhythmia alarms in the ICU using Convolutional Neural Networks
 * [akshaynathr/deep_heart_hackatho](https://github.com/akshaynathr/deep_heart_hackatho) - Anomaly detection system for heart diseases from ECG using machine learning
 * [SajadMo/ECG-Heartbeat-Classification-seq2seq-model](https://github.com/SajadMo/ECG-Heartbeat-Classification-seq2seq-model) - Inter- and intra- patient ECG heartbeat classification for arrhythmia detection: a sequence to sequence deep learning approach
+* [nicolebrimmer/senior-thesis](https://github.com/nicolebrimmer/senior-thesis) - Predicting Ventricular Tachycardia Using LSTMs and ECG Signals
+* [pablocarreraflorez/heartbeat-deep-learning](https://github.com/pablocarreraflorez/heartbeat-deep-learning/blob/master/hearbeat.ipynb)
+
+### Datasets
+* [ECG Heartbeat Categorization Dataset](https://www.kaggle.com/shayanfazeli/heartbeat) @ Kaggle
 
 ## Papers
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
