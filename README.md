@@ -1,5 +1,14 @@
 # awesome-ai-cardiology
-Awesome resources for artificial intelligence/machine learning/deep learning in cardiology
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to cardiology.
+
+Patreon: https://www.patreon.com/craigbailes
+
+© 2019 Craig Bailes (@cbailes), MIT License
+
+# Code repositories
+* [limagbz/arrhythmia-alarms](https://github.com/limagbz/arrhythmia-alarms) - Detecting false arrhythmia alarms in the ICU using Convolutional Neural Networks
 
 # Papers
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
@@ -23,6 +32,7 @@ Awesome resources for artificial intelligence/machine learning/deep learning in 
 
 ## Prognostics
 * [Machine learning improves the long-term prognostic value of sequential cardiac PET/CT](https://academic.oup.com/eurheartj/article-abstract/39/suppl_1/ehy563.3003/5080092) - L E Juarez-Orozco T Maaniitty O Martinez-Manzanera A Saraste J Knuuti (2018)
+* [A deep neural network to enhance prediction of 1-year mortality using echocardiographic videos of the heart](https://arxiv.org/abs/1811.10553) - Alvaro Ulloa, Linyuan Jing, Christopher W Good, David P vanMaanen, Sushravya Raghunath, Jonathan D Suever, Christopher D Nevius, Gregory J Wehner, Dustin Hartzel, Joseph B Leader, Amro Alsaid, Aalpen A Patel, H Lester Kirchner, Marios S Pattichis, Christopher M Haggerty, Brandon K Fornwalt (2018)
 
 ## Device identification
 * [Cardiac Rhythm Device Identification Using Neural Networks](http://electrophysiology.onlinejacc.org/content/5/5/576) - James P. Howard, Louis Fisher, Matthew J. Shun-Shin, Daniel Keene, Ahran D. Arnold, Yousif Ahmad, Christopher M. Cook, James C. Moon, Charlotte H. Manisty, Zach I. Whinnett, Graham D. Cole, Daniel Rueckert, Darrel P. Francis (2019)
