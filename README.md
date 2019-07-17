@@ -11,8 +11,12 @@ Awesome resources for artificial intelligence in cardiology
 * [Artificial Intelligence and Echocardiography](https://www.acc.org/latest-in-cardiology/articles/2019/06/18/07/43/artificial-intelligence-and-echocardiography) - Akhil Narang, Roberto M. Lang (2019)
 
 ## Prediction
+* [Improving the value of clinical variables in the assessment of cardiovascular risk using Artificial Neural Networks](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx502.P1089/4088432) - L.E. Juarez-Orozco R.J.J. Knol C.A. Sanchez-Catasus F.M. Van Der Zant J. Knuuti (2017)
 * [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
-* [Machine learning overtakes humans in predicting death or heart attack](https://www.escardio.org/The-ESC/Press-Office/Press-releases/machine-learning-overtakes-humans-in-predicting-death-or-heart-attack) - European Society of Cardiology (2019)
+* [Deep learning in quantitative PET myocardial perfusion imaging to predict adverse cardiovascular events](https://academic.oup.com/ehjcimaging/article/20/Supplement_3/jez145.005/5512889) - L E Juarez-Orozco O Martinez-Manzanera F M Van Der Zant R J J Knol J Knuuti (2019)
 
-# Presentations
-* [Deep learning in quantitative PET myocardial perfusion imaging to predict adverse cardiovascular events](https://esc365.escardio.org/Congress/ICNC-2019/Moderated-Posters-4/191256-deep-learning-in-quantitative-pet-myocardial-perfusion-imaging-to-predict-adverse-cardiovascular-events)
+## Prognostics
+* [Machine learning improves the long-term prognostic value of sequential cardiac PET/CT](https://academic.oup.com/eurheartj/article-abstract/39/suppl_1/ehy563.3003/5080092) - L E Juarez-Orozco T Maaniitty O Martinez-Manzanera A Saraste J Knuuti (2018)
+
+# Other resources
+* [Machine learning overtakes humans in predicting death or heart attack](https://www.escardio.org/The-ESC/Press-Office/Press-releases/machine-learning-overtakes-humans-in-predicting-death-or-heart-attack) - European Society of Cardiology (2019)
