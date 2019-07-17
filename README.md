@@ -21,6 +21,7 @@ Patreon: https://www.patreon.com/craigbailes
 
 ### Datasets
 * [ECG Heartbeat Categorization Dataset](https://www.kaggle.com/shayanfazeli/heartbeat) @ Kaggle
+* [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) @ UC Irvine Machine Learning Repository
 
 ## Papers
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
