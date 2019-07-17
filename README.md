@@ -16,7 +16,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [sbasu26/Predicting-Heart-Disease-using-ANN](https://github.com/sbasu26/Predicting-Heart-Disease-using-ANN) - Heart disease prediction using various approaches with Keras and Tensorflow
 * [SreehariRamMohan/Heart-Sounds-Deep-Learning](https://github.com/SreehariRamMohan/Heart-Sounds-Deep-Learning) - Diagnose heart arrhythmias using deep learning using very low cost equipment
 * [Vikashtripathi/Deep-learning-for-heart-disease-prediction](https://github.com/Vikashtripathi/Deep-learning-for-heart-disease-prediction) - Deep neural network model for heart disease prediction using 10 practical datapoints
-* [nerdySingh/LifeTech](https://github.com/nerdySingh/LifeTech) - life.tech, a comprehensive system that can detect cardiac abnormalities using low cost hardware and SMS notifications
+* [nerdySingh/LifeTech](https://github.com/nerdySingh/LifeTech) - life.tech, a comprehensive system that can detect cardiac abnormalities using machine learning and low cost hardware with emergency SMS notifications
 * [sachanganesh/heartbeat-classification](https://github.com/sachanganesh/heartbeat-classification) - Deep Stethoscope: CNN Heartbeat Classifier
 
 ### Datasets
