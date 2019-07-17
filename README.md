@@ -6,6 +6,8 @@ Awesome resources for artificial intelligence/machine learning/deep learning in 
 * [Deep Learning in Cardiology](https://arxiv.org/abs/1902.11122) - Paschalis Bizopoulos, Dimitrios Koutsouris (2019)
 
 ## Diagnostics
+* [Machine Learning Approaches in Cardiovascular Imaging](https://www.ahajournals.org/doi/pdf/10.1161/CIRCIMAGING.117.005614) - Mir Henglin, Gillian  Stein, Pavel  V.  Hushcha, Jasper  Snoek, Alexander  B.  Wiltschko, Susan  Cheng (2017)
+* [Deep Learning for Cardiac MRI: The Time Has Come](https://pubs.rsna.org/doi/abs/10.1148/radiol.2018182107?journalCode=radiology) - Patrick M. Colletti (2018)
 * [Automated cardiovascular magnetic resonance image analysis with fully convolutional networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6138894/) - Wenjia Bai, Matthew Sinclair, Giacomo Tarroni, Ozan Oktay, Martin Rajchl, Ghislain Vaillant, Aaron M. Lee, Nay Aung, Elena Lukaschuk, Mihir M. Sanghvi, Filip Zemrak, Kenneth Fung, Jose Miguel Paiva, Valentina Carapella, Young Jin Kim, Hideaki Suzuki, Bernhard Kainz, Paul M. Matthews, Steffen E. Petersen, Stefan K. Piechnik, Stefan Neubauer, Ben Glocker, Daniel Rueckert (2018)
 * [Clinical applications of machine learning in cardiovascular disease and its relevance to cardiac imaging](https://www.ncbi.nlm.nih.gov/pubmed/30060039) - SJ Al'Aref, K Anchouche, G Singh, PJ Slomka, KK Kolli, A Kumar, M Pandey, G Maliakal, AR van Rosendael, AN Beecy, DS Berman, J Leipsic, K Nieman, D Andreini, G Pontone, UJ Schoepf, LJ Shaw, HJ Chang, J Narula, JJ Bax, Y Guan, JK Min (2019)
 * [Machine Learning in the Evaluation of Myocardial Ischemia Through Nuclear Cardiology](https://link.springer.com/article/10.1007/s12410-019-9480-x) - Luis Eduardo Juarez-Orozco, Octavio Martinez-Manzanera, Andrea Ennio Storti, Juhani Knuuti (2019)
@@ -19,6 +21,9 @@ Awesome resources for artificial intelligence/machine learning/deep learning in 
 
 ## Prognostics
 * [Machine learning improves the long-term prognostic value of sequential cardiac PET/CT](https://academic.oup.com/eurheartj/article-abstract/39/suppl_1/ehy563.3003/5080092) - L E Juarez-Orozco T Maaniitty O Martinez-Manzanera A Saraste J Knuuti (2018)
+
+## Device identification
+* [Cardiac Rhythm Device Identification Using Neural Networks](http://electrophysiology.onlinejacc.org/content/5/5/576) - James P. Howard, Louis Fisher, Matthew J. Shun-Shin, Daniel Keene, Ahran D. Arnold, Yousif Ahmad, Christopher M. Cook, James C. Moon, Charlotte H. Manisty, Zach I. Whinnett, Graham D. Cole, Daniel Rueckert, Darrel P. Francis (2019)
 
 # Teams
 * [Cardiac MRI analysis @ MIT](https://www.csail.mit.edu/research/cardiac-mri-analysis)
