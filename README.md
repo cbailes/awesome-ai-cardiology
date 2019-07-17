@@ -8,6 +8,11 @@ Awesome resources for artificial intelligence in cardiology
 ## Diagnostics
 * [Clinical applications of machine learning in cardiovascular disease and its relevance to cardiac imaging](https://www.ncbi.nlm.nih.gov/pubmed/30060039) - SJ Al'Aref, K Anchouche, G Singh, PJ Slomka, KK Kolli, A Kumar, M Pandey, G Maliakal, AR van Rosendael, AN Beecy, DS Berman, J Leipsic, K Nieman, D Andreini, G Pontone, UJ Schoepf, LJ Shaw, HJ Chang, J Narula, JJ Bax, Y Guan, JK Min (2019)
 * [Machine Learning in the Evaluation of Myocardial Ischemia Through Nuclear Cardiology](https://link.springer.com/article/10.1007/s12410-019-9480-x) - Luis Eduardo Juarez-Orozco, Octavio Martinez-Manzanera, Andrea Ennio Storti, Juhani Knuuti (2019)
+* [Artificial Intelligence and Echocardiography](https://www.acc.org/latest-in-cardiology/articles/2019/06/18/07/43/artificial-intelligence-and-echocardiography) - Akhil Narang, Roberto M. Lang (2019)
 
 ## Prediction
 * [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
+* [Machine learning overtakes humans in predicting death or heart attack](https://www.escardio.org/The-ESC/Press-Office/Press-releases/machine-learning-overtakes-humans-in-predicting-death-or-heart-attack) - European Society of Cardiology (2019)
+
+# Presentations
+* [Deep learning in quantitative PET myocardial perfusion imaging to predict adverse cardiovascular events](https://esc365.escardio.org/Congress/ICNC-2019/Moderated-Posters-4/191256-deep-learning-in-quantitative-pet-myocardial-perfusion-imaging-to-predict-adverse-cardiovascular-events)
