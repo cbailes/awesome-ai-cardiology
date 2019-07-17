@@ -9,6 +9,8 @@ Patreon: https://www.patreon.com/craigbailes
 
 ## Code repositories
 * [limagbz/arrhythmia-alarms](https://github.com/limagbz/arrhythmia-alarms) - Detecting false arrhythmia alarms in the ICU using Convolutional Neural Networks
+* [akshaynathr/deep_heart_hackatho](https://github.com/akshaynathr/deep_heart_hackatho) - Anomaly detection system for heart diseases from ECG using machine learning
+* [SajadMo/ECG-Heartbeat-Classification-seq2seq-model](https://github.com/SajadMo/ECG-Heartbeat-Classification-seq2seq-model) - Inter- and intra- patient ECG heartbeat classification for arrhythmia detection: a sequence to sequence deep learning approach
 
 ## Papers
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
