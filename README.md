@@ -28,6 +28,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
 * [Deep Learning in Cardiology](https://arxiv.org/abs/1902.11122) - Paschalis Bizopoulos, Dimitrios Koutsouris (2019)
 * [Deep learning for cardiovascular medicine: a practical primer](https://academic.oup.com/eurheartj/article-abstract/40/25/2058/5366208) - Chayakrit Krittanawong, Kipp W Johnson, Robert S Rosenson, Zhen Wang, Mehmet Aydar, Usman Baber, James K Min, W H Wilson Tang, Jonathan L Halperin, Sanjiv M Narayan  (2019)
+* [Blood Pressure Classification Using the Method of the Modular Neural Networks](https://www.hindawi.com/journals/ijhy/2019/7320365/) - Martha Pulido, Patricia Melin, German Prado-Arechiga (2019)
 
 ### Diagnostics
 * [Machine Learning Approaches in Cardiovascular Imaging](https://www.ahajournals.org/doi/pdf/10.1161/CIRCIMAGING.117.005614) - Mir Henglin, Gillian  Stein, Pavel  V.  Hushcha, Jasper  Snoek, Alexander  B.  Wiltschko, Susan  Cheng (2017)
@@ -48,6 +49,8 @@ Patreon: https://www.patreon.com/craigbailes
 * [Artificial Neural Network Modeling of Sustained Antihypertensive Drug Delivery using Polyelectrolyte Complex based on Carboxymethyl-kappa-carrageenan and Chitosan as Prospective Carriers](https://ieeexplore.ieee.org/document/8651985) - Sonia Lefnaoui, Samia Rebouh, Mounir Bouhedda, Madiha M. Yahoum, Salah Hanini (2018)
 
 ### Prediction
+* [Evaluating the risk of hypertension using an artificial neural network method in rural residents over the age of 35 years in a Chinese area](https://www.nature.com/articles/hr201073) - Shuqiong Huang, Yihua Xu, Li Yue, Sheng Wei, Li Liu, Xiumin Gan, Shuihong Zhou, Shaofa Nie - (201)
+* [Pre-Diagnosis of Hypertension Using Artificial Neural Network](https://globaljournals.org/GJCST_Volume11/5-Pre-Diagnosis-of-Hypertension-Using-Artificial-Neural-Network.pdf) - B. Sumathi, A. Santhakumaran (2011)
 * [Improving the value of clinical variables in the assessment of cardiovascular risk using Artificial Neural Networks](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx502.P1089/4088432) - L.E. Juarez-Orozco R.J.J. Knol C.A. Sanchez-Catasus F.M. Van Der Zant J. Knuuti (2017)
 * [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
 * [Deep learning in quantitative PET myocardial perfusion imaging to predict adverse cardiovascular events](https://academic.oup.com/ehjcimaging/article/20/Supplement_3/jez145.005/5512889) - L E Juarez-Orozco O Martinez-Manzanera F M Van Der Zant R J J Knol J Knuuti (2019)
