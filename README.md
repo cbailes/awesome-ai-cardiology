@@ -45,7 +45,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [On Arrhythmia Detection by Deep Learning and Multidimensional Representation](https://arxiv.org/abs/1904.00138) - K.S. Rajput, S. Wibowo, C. Hao, M. Majmudar (2019)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://www.nature.com/articles/s41591-018-0268-3) - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng (2019)
 * [Cardiologist-Level Arrhythmia Detection With Convolutional Neural Networks](https://stanfordmlgroup.github.io/projects/ecg/) - Pranav Rajpurkar, Awni Hannun, Masoumeh Haghpanahi, Codie Bourn, and Andrew Ng
-* [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network] - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng
+* [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://stanfordmlgroup.github.io/projects/ecg2/) - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng
 
 ### Pharmacology
 
