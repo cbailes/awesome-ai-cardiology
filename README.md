@@ -40,6 +40,9 @@ Patreon: https://www.patreon.com/craigbailes
 * [Machine Learning in the Evaluation of Myocardial Ischemia Through Nuclear Cardiology](https://link.springer.com/article/10.1007/s12410-019-9480-x) - Luis Eduardo Juarez-Orozco, Octavio Martinez-Manzanera, Andrea Ennio Storti, Juhani Knuuti (2019)
 * [Water–fat separation and parameter mapping in cardiac MRI via deep learning with a convolutional neural network](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26658) - James W. Goldfarb, Jason Craft, J. Jane Cao (2019)
 
+#### Arrhythmias
+* [Cardiac arrhythmia detection using deep learning](https://www.sciencedirect.com/science/article/pii/S187705091732450X) - Ali Isina, Selen Ozdalilib (2017)
+
 ### Pharmacology
 
 #### Efficacy
