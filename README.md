@@ -3,7 +3,7 @@
 
 List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to cardiology.
 
-Open access: all rights granted under the MIT License for use and re-use of any kind by anyone at no cost.
+Open access: all rights granted for use and re-use of any kind by anyone at no cost under your choice of the MIT or Creative Commons CC-BY licenses.
 
 © 2019 Craig Bailes (@cbailes)
 
