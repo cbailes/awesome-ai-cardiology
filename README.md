@@ -49,6 +49,7 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 * [Cardiac Arrhythmia Classification by Multi-Layer Perceptron and Convolution Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027502/) - Shalin Savalia, Vahid Emamian (2018)
 * [On Arrhythmia Detection by Deep Learning and Multidimensional Representation](https://arxiv.org/abs/1904.00138) - K.S. Rajput, S. Wibowo, C. Hao, M. Majmudar (2019)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://stanfordmlgroup.github.io/projects/ecg2/) - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng (2019)
+* [Inter and Intra Patient ECG Heartbeat Classification For Arrhythmia Detection: A Sequence to Sequence Deep Learning Approach](https://engrxiv.org/uedzx/) - Sajad Mousavi, Fatemeh Afghah, U. Rajendra Acharya (2019)
 
 ### Pharmacology
 
