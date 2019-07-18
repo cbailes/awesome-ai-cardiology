@@ -3,7 +3,9 @@
 
 List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to cardiology.
 
-© 2019 Craig Bailes (@cbailes), MIT License [Open access / all rights granted for full use of any kind at no cost.] 
+Open access: all rights granted for use of any kind at no cost.
+
+© 2019 Craig Bailes (@cbailes), MIT License
 
 ## Code repositories
 * [awni/ecg](https://github.com/awni/ecg) - Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
@@ -53,6 +55,7 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://stanfordmlgroup.github.io/projects/ecg2/) - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng (2019)
 * [Novel deep genetic ensemble of classifiers for arrhythmia detection using ECG signals](https://link.springer.com/article/10.1007/s00521-018-03980-2) - Paweł Pławiak, U. Rajendra Acharya (2019)
 * [Inter and Intra Patient ECG Heartbeat Classification For Arrhythmia Detection: A Sequence to Sequence Deep Learning Approach](https://engrxiv.org/uedzx/) - Sajad Mousavi, Fatemeh Afghah, U. Rajendra Acharya (2019)
+* [Deep Learning of Arrhythmia Analysis Based on Convolutional Neural Network](http://www.ijbem.org/volume21/number1/48-58.pdf) - Anake Pomprapa , Waqar Ahmeda, André Stollenwerk , Stefan Kowalewskib, and Steffen Leonhardt (2019)
 
 ### Pharmacology
 
