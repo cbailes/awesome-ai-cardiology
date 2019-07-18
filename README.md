@@ -74,7 +74,7 @@ Patreon: https://www.patreon.com/craigbailes
 
 ## Teams
 * [Cardiac MRI analysis @ MIT](https://www.csail.mit.edu/research/cardiac-mri-analysis)
-* [Arrhythmia detection @ Stanford University](https://stanfordmlgroup.github.io/projects/ecg2/) ([CNN](https://stanfordmlgroup.github.io/projects/ecg/), [DNN](https://stanfordmlgroup.github.io/projects/ecg2/)) - A collaboration between Stanford ML Group and iRhythm Technologies 
+* [Arrhythmia detection @ Stanford University](https://stanfordmlgroup.github.io/projects/ecg2/)
 
 ## Other and meta resources
 * [Machine learning overtakes humans in predicting death or heart attack](https://www.escardio.org/The-ESC/Press-Office/Press-releases/machine-learning-overtakes-humans-in-predicting-death-or-heart-attack) - European Society of Cardiology (2019)
