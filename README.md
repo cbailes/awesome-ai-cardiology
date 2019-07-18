@@ -55,6 +55,7 @@ Patreon: https://www.patreon.com/craigbailes
 ### Pharmacology
 
 #### Efficacy
+* [Towards Identifying of Effective Personalized Antihypertensive Treatment Rules from Electronic Health Records Data Using Classification Methods: Initial Model](https://www.sciencedirect.com/science/article/pii/S1877050917323128?via%3Dihub) - Anna Semakova, Nadezhda Zvartau, Klavdiya Bochenina, Aleksandra Konradi (2017)
 * [Machine learning of big data in gaining insight into successful treatment of hypertension](https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1002/prp2.396) - Gideon Koren, Galia Nordon, Kira Radinsky, Varda Shalev (2018)
 
 #### Drug delivery
