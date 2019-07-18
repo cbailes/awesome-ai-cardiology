@@ -43,6 +43,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [Water–fat separation and parameter mapping in cardiac MRI via deep learning with a convolutional neural network](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26658) - James W. Goldfarb, Jason Craft, J. Jane Cao (2019)
 
 #### Arrhythmias
+* [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) - Serkan Kiranyaz, Turker Ince, Moncef Gabbouj (2015)
 * [Deep learning algorithm for arrhythmia detection](https://ieeexplore.ieee.org/abstract/document/8228452) - Hilmy Assodiky, Iwan Syarif, Tessy Badriyah (2017)
 * [Cardiologist-Level Arrhythmia Detection With Convolutional Neural Networks](https://stanfordmlgroup.github.io/projects/ecg/) - Pranav Rajpurkar, Awni Hannun, Masoumeh Haghpanahi, Codie Bourn, and Andrew Ng (2017)
 * [Cardiac arrhythmia detection using deep learning](https://www.sciencedirect.com/science/article/pii/S187705091732450X) - Ali Isina, Selen Ozdalilib (2017)
