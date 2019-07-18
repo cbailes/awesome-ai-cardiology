@@ -3,9 +3,9 @@
 
 List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to cardiology.
 
-Open access: all rights granted for use of any kind at no cost.
+Open access: all rights granted under the MIT License for use and re-use of any kind by anyone at no cost.
 
-© 2019 Craig Bailes (@cbailes), MIT License
+© 2019 Craig Bailes (@cbailes)
 
 ## Code repositories
 * [awni/ecg](https://github.com/awni/ecg) - Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
