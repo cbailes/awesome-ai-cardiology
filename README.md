@@ -42,6 +42,7 @@ Patreon: https://www.patreon.com/craigbailes
 
 #### Arrhythmias
 * [Cardiac arrhythmia detection using deep learning](https://www.sciencedirect.com/science/article/pii/S187705091732450X) - Ali Isina, Selen Ozdalilib (2017)
+* [Arrhythmia Detection Using Deep Convolutional Neural Network With Long Duration ECG Signals](https://www.researchgate.net/publication/327602644_Arrhythmia_Detection_Using_Deep_Convolutional_Neural_Network_With_Long_Duration_ECG_Signals) - Özal yıldırım, Paweł Pławiak, Ru San Tan, U Rajendra Acharya, U Rajendra Acharya (2018)
 * [Cardiac Arrhythmia Classification by Multi-Layer Perceptron and Convolution Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027502/) - Shalin Savalia, Vahid Emamian (2018)
 * [On Arrhythmia Detection by Deep Learning and Multidimensional Representation](https://arxiv.org/abs/1904.00138) - K.S. Rajput, S. Wibowo, C. Hao, M. Majmudar (2019)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://www.nature.com/articles/s41591-018-0268-3) - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng (2019)
