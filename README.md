@@ -8,6 +8,7 @@ Patreon: https://www.patreon.com/craigbailes
 © 2019 Craig Bailes (@cbailes), MIT License
 
 ## Code repositories
+* [awni/ecg](https://github.com/awni/ecg) - Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
 * [limagbz/arrhythmia-alarms](https://github.com/limagbz/arrhythmia-alarms) - Detecting false arrhythmia alarms in the ICU using Convolutional Neural Networks
 * [akshaynathr/deep_heart_hackatho](https://github.com/akshaynathr/deep_heart_hackatho) - Anomaly detection system for heart diseases from ECG using machine learning
 * [SajadMo/ECG-Heartbeat-Classification-seq2seq-model](https://github.com/SajadMo/ECG-Heartbeat-Classification-seq2seq-model) - Inter- and intra- patient ECG heartbeat classification for arrhythmia detection: a sequence to sequence deep learning approach
@@ -41,6 +42,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [Water–fat separation and parameter mapping in cardiac MRI via deep learning with a convolutional neural network](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26658) - James W. Goldfarb, Jason Craft, J. Jane Cao (2019)
 
 #### Arrhythmias
+* [Deep learning algorithm for arrhythmia detection](https://ieeexplore.ieee.org/abstract/document/8228452) - Hilmy Assodiky, Iwan Syarif, Tessy Badriyah (2017)
 * [Cardiac arrhythmia detection using deep learning](https://www.sciencedirect.com/science/article/pii/S187705091732450X) - Ali Isina, Selen Ozdalilib (2017)
 * [Arrhythmia Detection Using Deep Convolutional Neural Network With Long Duration ECG Signals](https://www.researchgate.net/publication/327602644_Arrhythmia_Detection_Using_Deep_Convolutional_Neural_Network_With_Long_Duration_ECG_Signals) - Özal yıldırım, Paweł Pławiak, Ru San Tan, U Rajendra Acharya, U Rajendra Acharya (2018)
 * [Cardiac Arrhythmia Classification by Multi-Layer Perceptron and Convolution Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027502/) - Shalin Savalia, Vahid Emamian (2018)
