@@ -78,8 +78,8 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 ### Device identification
 * [Cardiac Rhythm Device Identification Using Neural Networks](http://electrophysiology.onlinejacc.org/content/5/5/576) - James P. Howard, Louis Fisher, Matthew J. Shun-Shin, Daniel Keene, Ahran D. Arnold, Yousif Ahmad, Christopher M. Cook, James C. Moon, Charlotte H. Manisty, Zach I. Whinnett, Graham D. Cole, Daniel Rueckert, Darrel P. Francis (2019)
 
-## Trials
-* [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG)](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
+## Official trials
+* [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG) @ ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
 
 ## Teams
 * [Cardiac MRI analysis @ MIT](https://www.csail.mit.edu/research/cardiac-mri-analysis)
