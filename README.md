@@ -39,6 +39,14 @@ Patreon: https://www.patreon.com/craigbailes
 * [Machine Learning in the Evaluation of Myocardial Ischemia Through Nuclear Cardiology](https://link.springer.com/article/10.1007/s12410-019-9480-x) - Luis Eduardo Juarez-Orozco, Octavio Martinez-Manzanera, Andrea Ennio Storti, Juhani Knuuti (2019)
 * [Water–fat separation and parameter mapping in cardiac MRI via deep learning with a convolutional neural network](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26658) - James W. Goldfarb, Jason Craft, J. Jane Cao (2019)
 
+### Pharmacology
+
+#### Efficacy
+* [Machine learning of big data in gaining insight into successful treatment of hypertension](https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1002/prp2.396) - Gideon Koren, Galia Nordon, Kira Radinsky, Varda Shalev (2018)
+
+#### Drug delivery
+* [Artificial Neural Network Modeling of Sustained Antihypertensive Drug Delivery using Polyelectrolyte Complex based on Carboxymethyl-kappa-carrageenan and Chitosan as Prospective Carriers](https://ieeexplore.ieee.org/document/8651985) - Sonia Lefnaoui, Samia Rebouh, Mounir Bouhedda, Madiha M. Yahoum, Salah Hanini (2018)
+
 ### Prediction
 * [Improving the value of clinical variables in the assessment of cardiovascular risk using Artificial Neural Networks](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx502.P1089/4088432) - L.E. Juarez-Orozco R.J.J. Knol C.A. Sanchez-Catasus F.M. Van Der Zant J. Knuuti (2017)
 * [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
