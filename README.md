@@ -85,7 +85,8 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 * [Cardiac MRI analysis @ MIT](https://www.csail.mit.edu/research/cardiac-mri-analysis)
 * [Arrhythmia detection @ Stanford University](https://stanfordmlgroup.github.io/projects/ecg2/)
 
-## Other and meta resources
+## News, meta resources, and other
 * [Machine learning overtakes humans in predicting death or heart attack](https://www.escardio.org/The-ESC/Press-Office/Press-releases/machine-learning-overtakes-humans-in-predicting-death-or-heart-attack) - European Society of Cardiology (2019)
 * [Artificial Intelligence and Echocardiography](https://www.acc.org/latest-in-cardiology/articles/2019/06/18/07/43/artificial-intelligence-and-echocardiography) - Akhil Narang, Roberto M. Lang (2019)
+* [Stanford computer scientists develop an algorithm that diagnoses heart arrhythmias with cardiologist-level accuracy](https://news.stanford.edu/2017/07/06/algorithm-diagnoses-heart-arrhythmias-cardiologist-level-accuracy/) - Taylor Kubota (2017)
 * [Applications for Artificial Intelligence in Cardiovascular Imaging](https://www.dicardiology.com/article/applications-artificial-intelligence-cardiovascular-imaging) - Dave Fornell, Diagnostic and Interventional Cardiology (2019)
