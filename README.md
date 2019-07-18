@@ -3,8 +3,6 @@
 
 List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to cardiology.
 
-Patreon: https://www.patreon.com/craigbailes
-
 © 2019 Craig Bailes (@cbailes), MIT License
 
 ## Code repositories
