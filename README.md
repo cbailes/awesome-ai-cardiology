@@ -3,7 +3,7 @@
 
 List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to cardiology.
 
-Open access: all rights granted for use and re-use of any kind by anyone at no cost under your choice of the MIT or Creative Commons CC-BY licenses.
+Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
 © 2019 Craig Bailes (@cbailes)
 
@@ -73,6 +73,7 @@ Open access: all rights granted for use and re-use of any kind by anyone at no c
 * [Machine Learning Data Imputation and Classification in a Multicohort Hypertension Clinical Study](https://journals.sagepub.com/doi/full/10.4137/BBI.S29473) - William Seffens, Chad Evans, Taylor Minority Health-Grid Network And Herman (2016)
 * [Improving the value of clinical variables in the assessment of cardiovascular risk using Artificial Neural Networks](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx502.P1089/4088432) - L.E. Juarez-Orozco R.J.J. Knol C.A. Sanchez-Catasus F.M. Van Der Zant J. Knuuti (2017)
 * [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
+* [DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction](https://arxiv.org/pdf/1802.02511.pdf) - Brandon Ballinger, Johnson Hsieh, Avesh Singh, Nimit Sohoni, Jack Wan, Geoffrey H. Tison, Gregory M. Marcus, Jose M. Sanchez, Carol Maguire Jeffrey E. Olgin, Mark J. Pletcher (2018)
 * [Deep learning in quantitative PET myocardial perfusion imaging to predict adverse cardiovascular events](https://academic.oup.com/ehjcimaging/article/20/Supplement_3/jez145.005/5512889) - L E Juarez-Orozco O Martinez-Manzanera F M Van Der Zant R J J Knol J Knuuti (2019)
 * [Learning to Identify Patients at Risk of Uncontrolled Hypertension Using Electronic Health Records Data](https://arxiv.org/pdf/1907.00089.pdf) - Ramin Mohammadi, Sarthak Jain, Stephen Agboola, Ramya Palacholla, Sagar Kamarthi, Byron C. Wallace (2019)
 
