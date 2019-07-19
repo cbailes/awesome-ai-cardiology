@@ -24,6 +24,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ### Datasets
 * [ECG Heartbeat Categorization Dataset](https://www.kaggle.com/shayanfazeli/heartbeat) @ Kaggle
 * [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) @ UC Irvine Machine Learning Repository
+* [DeepQ Arrhythmia Database: A Large-Scale Dataset for Arrhythmia Detector Evaluation](https://storage.googleapis.com/research_htc_com_assets/publications/ecg-mmh17.pdf) - Meng-Hsi Wu, Edward Y. Chang (2017)
 
 ## Papers
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
