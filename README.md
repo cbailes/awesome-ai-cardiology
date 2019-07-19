@@ -45,6 +45,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Arrhythmias
 * [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) - Serkan Kiranyaz, Turker Ince, Moncef Gabbouj (2015)
+* [Deep learning approach for active classification of electrocardiogram signals](https://www.sciencedirect.com/science/article/pii/S0020025516300184) - M. M. Al Rahhal, Yakoub Bazi, Haikel AlHichria, NaifAlajlan, Farid Melgani, R. R.Yager (2016)
 * [Deep learning algorithm for arrhythmia detection](https://ieeexplore.ieee.org/abstract/document/8228452) - Hilmy Assodiky, Iwan Syarif, Tessy Badriyah (2017)
 * [Cardiologist-Level Arrhythmia Detection With Convolutional Neural Networks](https://stanfordmlgroup.github.io/projects/ecg/) - Pranav Rajpurkar, Awni Hannun, Masoumeh Haghpanahi, Codie Bourn, and Andrew Ng (2017)
 * [Cardiac arrhythmia detection using deep learning](https://www.researchgate.net/publication/321812830_Cardiac_arrhythmia_detection_using_deep_learning) - Ali Isina, Selen Ozdalilib (2017)
