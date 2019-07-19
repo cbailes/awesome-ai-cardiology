@@ -63,6 +63,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Novel deep genetic ensemble of classifiers for arrhythmia detection using ECG signals](https://link.springer.com/article/10.1007/s00521-018-03980-2) - Paweł Pławiak, U. Rajendra Acharya (2019)
 * [Inter and Intra Patient ECG Heartbeat Classification For Arrhythmia Detection: A Sequence to Sequence Deep Learning Approach](https://engrxiv.org/uedzx/) - Sajad Mousavi, Fatemeh Afghah, U. Rajendra Acharya (2019)
 * [Deep Learning of Arrhythmia Analysis Based on Convolutional Neural Network](http://www.ijbem.org/volume21/number1/48-58.pdf) - Anake Pomprapa , Waqar Ahmeda, André Stollenwerk , Stefan Kowalewskib, and Steffen Leonhardt (2019)
+* [Diagnosing Abnormal Electrocardiogram (ECG) via Deep Learning](https://www.intechopen.com/online-first/diagnosing-abnormal-electrocardiogram-ecg-via-deep-learning) - Xin Gao (2019)
 
 ### Pharmacology
 
