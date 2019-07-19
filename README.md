@@ -96,7 +96,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Arrhythmia detection @ Stanford University](https://stanfordmlgroup.github.io/projects/ecg2/)
 
 ## News, meta resources, and other
+* [Stanford computer scientists develop an algorithm that diagnoses heart arrhythmias with cardiologist-level accuracy](https://news.stanford.edu/2017/07/06/algorithm-diagnoses-heart-arrhythmias-cardiologist-level-accuracy/) - Taylor Kubota (2017)
+* [How AI based arrhythmia detector can explain its decisions](https://medium.com/mawi-band/how-ai-based-arrhythmia-detector-can-explain-its-decisions-b4f433faa4a2) - Artem Bachynskyi (2018)
 * [Machine learning overtakes humans in predicting death or heart attack](https://www.escardio.org/The-ESC/Press-Office/Press-releases/machine-learning-overtakes-humans-in-predicting-death-or-heart-attack) - European Society of Cardiology (2019)
 * [Artificial Intelligence and Echocardiography](https://www.acc.org/latest-in-cardiology/articles/2019/06/18/07/43/artificial-intelligence-and-echocardiography) - Akhil Narang, Roberto M. Lang (2019)
-* [Stanford computer scientists develop an algorithm that diagnoses heart arrhythmias with cardiologist-level accuracy](https://news.stanford.edu/2017/07/06/algorithm-diagnoses-heart-arrhythmias-cardiologist-level-accuracy/) - Taylor Kubota (2017)
 * [Applications for Artificial Intelligence in Cardiovascular Imaging](https://www.dicardiology.com/article/applications-artificial-intelligence-cardiovascular-imaging) - Dave Fornell, Diagnostic and Interventional Cardiology (2019)
