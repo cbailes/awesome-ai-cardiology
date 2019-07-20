@@ -22,9 +22,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [sachanganesh/heartbeat-classification](https://github.com/sachanganesh/heartbeat-classification) - Deep Stethoscope: CNN Heartbeat Classifier
 
 ### Datasets
-* [ECG Heartbeat Categorization Dataset](https://www.kaggle.com/shayanfazeli/heartbeat) @ Kaggle
+* [Kachuee-Fazeli-Sarrafzadeh ECG Heartbeat Categorization Dataset](https://www.kaggle.com/shayanfazeli/heartbeat) @ Kaggle
 * [MIT-BIH Arrhythmia Database](https://www.kaggle.com/taejoongyoon/mitbit-arrhythmia-database) @ Kaggle
-* [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) @ UC Irvine Machine Learning Repository
+* [Janosi-Steinbrunn-Pfisterer-Detrano Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) @ UC Irvine Machine Learning Repository
 * [DeepQ Arrhythmia Database: A Large-Scale Dataset for Arrhythmia Detector Evaluation](https://storage.googleapis.com/research_htc_com_assets/publications/ecg-mmh17.pdf) - Meng-Hsi Wu, Edward Y. Chang (2017)
 
 ### Tutorials
@@ -152,6 +152,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Pre-Diagnosis of Hypertension Using Artificial Neural Network](https://globaljournals.org/GJCST_Volume11/5-Pre-Diagnosis-of-Hypertension-Using-Artificial-Neural-Network.pdf) - B. Sumathi, A. Santhakumaran (2011)
 * [Anthropometric Predictors and Artificial Neural Networks in the diagnosis of Hypertension](https://www.researchgate.net/publication/300338220_Anthropometric_Predictors_and_Artificial_Neural_Networks_in_the_diagnosis_of_Hypertension) - Krzysztof Pytel, Tadeusz Nawarycz, Wojciech Drygas, Lidia Ostrowska-Nawarycz (2015)
 * [Learning to Identify Patients at Risk of Uncontrolled Hypertension Using Electronic Health Records Data](https://arxiv.org/pdf/1907.00089.pdf) - Ramin Mohammadi, Sarthak Jain, Stephen Agboola, Ramya Palacholla, Sagar Kamarthi, Byron C. Wallace (2019)
+
+#### Sudden cardiac death
+* [A novel multi-class approach for early-stage prediction of sudden cardiac death](https://www.sciencedirect.com/science/article/abs/pii/S0208521619300191) - Reeta Devi, Hitender Kumar Tyagi, Dinesh Kumar (2019)
 
 #### Surgery
 * [Predicting Mortality after Coronary Artery Bypass Surgery: What Do Artificial Neural Networks Learn?](https://www.researchgate.net/publication/297987046_Predicting_Mortality_after_Coronary_Artery_Bypass_Surgery_What_Do_Artificial_Neural_Networks_Learn) - Jack V Tu, Milton C. Weinstein, Barbara J Mcneil, C. David Naylor (1998)
