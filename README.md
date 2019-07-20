@@ -121,6 +121,7 @@ Inquiries welcome: contact@craigbailes.com
 
 ### Prediction
 * [Noninvasive diagnosis of coronary artery disease using a neural network algorithm](https://www.ncbi.nlm.nih.gov/pubmed/1515514) - Metin Akay (1992)
+* [Predicting adverse outcomes of cardiac surgery with the application of artificial neural networks](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2044.2008.05478.x) - S. Y. Peng, S. K. Peng (2008)
 * [Machine Learning Data Imputation and Classification in a Multicohort Hypertension Clinical Study](https://journals.sagepub.com/doi/full/10.4137/BBI.S29473) - William Seffens, Chad Evans, Taylor Minority Health-Grid Network And Herman (2016)
 * [Artificial Intelligence in Mitral Valve Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408514/) - Jelliffe Jeganathan, Ziyad Knio, Yannis Amador, Ting Hai, Arash Khamooshian, Robina Matyal, Kamal R Khabbaz, Feroze Mahmood (2017)
 * [Improving the value of clinical variables in the assessment of cardiovascular risk using Artificial Neural Networks](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx502.P1089/4088432) - L.E. Juarez-Orozco R.J.J. Knol C.A. Sanchez-Catasus F.M. Van Der Zant J. Knuuti (2017)
