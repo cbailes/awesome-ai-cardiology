@@ -65,6 +65,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep Learning of Arrhythmia Analysis Based on Convolutional Neural Network](http://www.ijbem.org/volume21/number1/48-58.pdf) - Anake Pomprapa , Waqar Ahmeda, André Stollenwerk , Stefan Kowalewskib, and Steffen Leonhardt (2019)
 * [Diagnosing Abnormal Electrocardiogram (ECG) via Deep Learning](https://www.intechopen.com/online-first/diagnosing-abnormal-electrocardiogram-ecg-via-deep-learning) - Xin Gao (2019)
 * [Fog-Computing-Based Heartbeat Detection and Arrhythmia Classification Using Machine Learning](https://www.mdpi.com/1999-4893/12/2/32/htm) - Alessandro Scirè, Fabrizio Tropeano, Aris Anagnostopoulos, Ioannis Chatzigiannakis (2019)
+* [Adversarial Examples for Electrocardiograms](https://evidation.com/research/adversarial-examples-for-ecg/) - X. Han, Y. Hu, L. Foschini, L. Jankelson, R. Ranganath (2019)
 
 ### Pharmacology
 
