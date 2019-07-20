@@ -67,7 +67,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Classification of ECG Arrhythmia with Machine Learning Techniques](https://ieeexplore.ieee.org/document/8260688) - Halil Ibrahim, Nese Usta, Musa Yildiz (2017)
 * [Cardiac arrhythmia detection using deep learning](https://www.researchgate.net/publication/321812830_Cardiac_arrhythmia_detection_using_deep_learning) - Ali Isina, Selen Ozdalilib (2017)
 * [Multiclass Classification of Cardiac Arrhythmia Using Improved Feature Selection and SVM Invariants](https://www.hindawi.com/journals/cmmm/2018/7310496/) - Anam Mustaqeem, Syed Muhammad Anwar, Muahammad Majid (2018)
-* [Arrhythmia Detection Using Deep Convolutional Neural Network With Long Duration ECG Signals](https://www.researchgate.net/publication/327602644_Arrhythmia_Detection_Using_Deep_Convolutional_Neural_Network_With_Long_Duration_ECG_Signals) - Özal yıldırım, Paweł Pławiak, Ru San Tan, U Rajendra Acharya, U Rajendra Acharya (2018)
+* [Arrhythmia Detection Using Deep Convolutional Neural Network With Long Duration ECG Signals](https://www.researchgate.net/publication/327602644_Arrhythmia_Detection_Using_Deep_Convolutional_Neural_Network_With_Long_Duration_ECG_Signals) - Özal yıldırım, Paweł Pławiak, Ru San Tan, U Rajendra Acharya (2018)
 * [Personalizing a Generic ECG Heartbeat Classification for Arrhythmia Detection: A Deep Learning Approach](https://www.semanticscholar.org/paper/Personalizing-a-Generic-ECG-Heartbeat-for-A-Deep-Wu-Chang/52ad25136ce7f263c3ae3e5f7b544c22beab2c9f) - Meng-Hsi Wu, Emily J. Chang, Tzu-Hsuan Chu (2018)
 * [Inter-Patient ECG Classification with Convolutional and Recurrent Neural Networks](https://arxiv.org/pdf/1810.04121.pdf)  Li Guo, Gavin Sim, Bogdan Matuszewski (2018)
 * [A convolutional neural network for ECG annotation as the basis for classification of cardiac rhythms](https://iopscience.iop.org/article/10.1088/1361-6579/aae304) - Philipp Sodmann, Marcus Vollmer, Neetika Nath, Lars Kaderali (2018)
@@ -122,6 +122,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Myocardial infarction
 * [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
 * [Automated Risk Identification of Myocardial Infarction Using Relative Frequency Band Coefficient (RFBC) Features from ECG](https://www.researchgate.net/publication/51177719_Automated_Risk_Identification_of_Myocardial_Infarction_Using_Relative_Frequency_Band_Coefficient_RFBC_Features_from_ECG) - Bakul Gohel, Uma Shanker Tiwary (2010)
+
 * [Myocardial infarction detection and classification — A new multi-scale deep feature learning approach](https://ieeexplore.ieee.org/document/7868568) - J. F. Wu, Y. L. Bao, S. C. Chan, H. C. Wu, L. Zhang, X. G. Wei (2016)
 * [Classification of Myocardial Infarction Using Multi Resolution Wavelet Analysis of ECG](https://www.sciencedirect.com/science/article/pii/S2212017316302857) - R. S. Remya, K. P. Indiradevi, K. K. Anish Babu (2016)
 * [Multiclass classification of myocardial infarction with convolutional and recurrent neural networks for portable ECG devices](https://www.sciencedirect.com/science/article/pii/S2352914818301333) - Hin Wai Lui, King Lau Chow (2018)
@@ -129,7 +130,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Automated interpretable detection of myocardial infarction fusing energy entropy and morphological features](https://www.sciencedirect.com/science/article/pii/S0169260719301531) - Chuang Han, Li Shi (2019)
 * [Classification of Myocardial Infarction with Multi-Lead ECG Signals and Deep CNN](https://www.researchgate.net/publication/331035341_Classification_of_Myocardial_Infarction_with_Multi-Lead_ECG_Signals_and_Deep_CNN) - Ulas Baran Baloglu, Muhammed Talo, Özal yıldırım, Ru San Tan, U Rajendra Acharya (2019)
 * [Automated Detection and Localization of Myocardial Infarction with Staked Sparse Autoencoder and TreeBagger](https://www.researchgate.net/publication/333413230_Automated_Detection_and_Localization_of_Myocardial_Infarction_with_Staked_Sparse_Autoencoder_and_TreeBagger) - Jieshuo Zhang, Feng Lin, Peng Xiong, Haiman Du, Hong Zhang, Ming Liu, Zengguang Hou, Xiuling Liub (2019)
-
 
 ### Pharmacology
 
