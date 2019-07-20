@@ -132,7 +132,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Cardiac Rhythm Device Identification Using Neural Networks](http://electrophysiology.onlinejacc.org/content/5/5/576) - James P. Howard, Louis Fisher, Matthew J. Shun-Shin, Daniel Keene, Ahran D. Arnold, Yousif Ahmad, Christopher M. Cook, James C. Moon, Charlotte H. Manisty, Zach I. Whinnett, Graham D. Cole, Daniel Rueckert, Darrel P. Francis (2019)
 
 #### Individuals
+* [Personal Identification by Convolutional Neural Network with ECG Signal](https://ieeexplore.ieee.org/document/8539632) - Jianbo Xu, Tianhui Li, Ying Chen, Wenxi Chen (2018)
 * [ECG-based personal recognition using a convolutional neural network](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302004) - Yue Zhang, Zhibo Xiao, Zhenhua Guo, Ziliang Wang (2019)
+* [A Study on User Recognition Using 2D ECG Image Based on Ensemble Networks for Intelligent Vehicles](https://www.hindawi.com/journals/wcmc/2019/6458719/) - Min-Gu Kim, Hoon Ko, Sung Bum Pan (2019)
 
 ## Official trials
 * [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG) @ ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
