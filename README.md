@@ -131,6 +131,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ### Prognostics
 * [Machine learning improves the long-term prognostic value of sequential cardiac PET/CT](https://academic.oup.com/eurheartj/article-abstract/39/suppl_1/ehy563.3003/5080092) - L E Juarez-Orozco T Maaniitty O Martinez-Manzanera A Saraste J Knuuti (2018)
 * [A deep neural network to enhance prediction of 1-year mortality using echocardiographic videos of the heart](https://arxiv.org/abs/1811.10553) - Alvaro Ulloa, Linyuan Jing, Christopher W Good, David P vanMaanen, Sushravya Raghunath, Jonathan D Suever, Christopher D Nevius, Gregory J Wehner, Dustin Hartzel, Joseph B Leader, Amro Alsaid, Aalpen A Patel, H Lester Kirchner, Marios S Pattichis, Christopher M Haggerty, Brandon K Fornwalt (2018)
+* [Artificial Intelligence Improves Accuracy of Heart Failure Readmission Risk Predictions](https://www.healthcatalyst.com/success_stories/machine-learning-in-heart-failure-multicare) - HealthCatalyst, Pulse Heart Institute, MultiCare (2018)
 * [Deep Learning Approach for Predicting 30 Day Readmissions after Coronary Artery Bypass Graft Surgery](https://arxiv.org/abs/1812.00596) - Ramesh B. Manyam, Yanqing Zhang, William B. Keeling, Jose Binongo, Michael Kayatta, Seth Carter (2018)
 * [Machine Learning Prediction of Response to Cardiac Resynchronization Therapy](https://www.ahajournals.org/doi/10.1161/CIRCEP.119.007316) - Albert K. Feeny, John Rickard, Divyang Patel, Saleem Toro, Kevin M. Trulock, Carolyn J. Park, Michael A. LaBarbera, Niraj Varma, Mark J. Niebauer, Sunil Sinha, Eiran Z. Gorodeski, Richard A. Grimm, Xinge Ji, John Barnard, Anant Madabhushi, David D. Spragg, Mina K. Chung (2019)
 
@@ -145,8 +146,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [ECG-based personal recognition using a convolutional neural network](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302004) - Yue Zhang, Zhibo Xiao, Zhenhua Guo, Ziliang Wang (2019)
 * [A Study on User Recognition Using 2D ECG Image Based on Ensemble Networks for Intelligent Vehicles](https://www.hindawi.com/journals/wcmc/2019/6458719/) - Min-Gu Kim, Hoon Ko, Sung Bum Pan (2019)
 
-## Official trials
-* [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG) @ ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
+## Clinical trials
+* [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG)](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
+* [Artificial Intelligence With Deep Learning and Genes on Cardiovascular Disease](https://clinicaltrials.gov/ct2/show/NCT03877614) - National Cheng-Kung University Hospital 
 
 ## Teams
 * [Cardiac MRI analysis @ MIT](https://www.csail.mit.edu/research/cardiac-mri-analysis)
