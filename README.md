@@ -5,7 +5,7 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 
 Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
-© 2019 Craig Bailes ( @cbailes | contact@craigbailes.com )
+© 2019 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 ## Code repositories
 * [awni/ecg](https://github.com/awni/ecg) - Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
@@ -107,6 +107,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ##### Signal optimization
 * [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
+
+#### Coronary disease
+* [Coronary heart disease diagnosis by artificial neural networks including aortic pulse wave velocity index and clinical parameters](https://journals.lww.com/jhypertension/Abstract/2019/08000/Coronary_heart_disease_diagnosis_by_artificial.19.aspx) - Alexandre Vallée, Alexandre Cinaud, Vincent Blachier, Hélène Lelong, Michel Safar, Jacques Blacher (2019)
 
 ### Pharmacology
 
