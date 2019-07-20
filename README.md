@@ -123,6 +123,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Classification of Myocardial Infarction Using Multi Resolution Wavelet Analysis of ECG](https://www.sciencedirect.com/science/article/pii/S2212017316302857) - R. S. Remya, K. P. Indiradevi, K. K. Anish Babu (2016)
 * [Multiclass classification of myocardial infarction with convolutional and recurrent neural networks for portable ECG devices](https://www.sciencedirect.com/science/article/pii/S2352914818301333) - Hin Wai Lui, King Lau Chow (2018)
 * [Detecting and interpreting myocardial infarction using fully convolutional neural networks](https://arxiv.org/pdf/1806.07385.pdf) - Nils Strodthoff, Claas Strodthoff (2019)
+* [Automated interpretable detection of myocardial infarction fusing energy entropy and morphological features](https://www.sciencedirect.com/science/article/pii/S0169260719301531) - Chuang Han, Li Shi (2019)
 
 ### Pharmacology
 
