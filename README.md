@@ -142,10 +142,12 @@ Inquiries welcome: contact@craigbailes.com
 #### Surgery
 * [Predicting Mortality after Coronary Artery Bypass Surgery: What Do Artificial Neural Networks Learn?](https://www.researchgate.net/publication/297987046_Predicting_Mortality_after_Coronary_Artery_Bypass_Surgery_What_Do_Artificial_Neural_Networks_Learn) - Jack V Tu, Milton C. Weinstein, Barbara J Mcneil, C. David Naylor (1998)
 * [The determination of cardiac surgical risk using artificial neural networks](https://www.ncbi.nlm.nih.gov/pubmed/11120637) - Dan A. Buzatu, Kim K. Taylor, Daniel C. Peret, Nicholas P. Lang (2001)
+* [Weight-elimination Neural Networks Applied to Coronary Surgery Mortality Prediction](http://www.sce.carleton.ca/faculty/frize/MIRG_2001/TRANS-JOUR-CME2.pdf) - Colleen M. Ennett, Monique Frize (2002)
 * [Risk factor identification and mortality prediction in cardiac surgery using artificial neural networks](https://www.jtcvs.org/article/S0022-5223(06)00124-3/fulltext) - Johan Nilsson, Mattias Ohlsson, Lars Thulin, Peter Höglund, Samer A.M. Nashef, Johan Brandt (2006)
 * [Predicting adverse outcomes of cardiac surgery with the application of artificial neural networks](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2044.2008.05478.x) - S. Y. Peng, S. K. Peng (2008)
 * [Neural Network Prediction of ICU Length of Stay Following Cardiac Surgery Based on Pre-Incision Variables](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145395) - Rocco J. LaFaro, Suryanarayana Pothula, Keshar Paul Kubal, Mario Emil Inchiosa, Venu M. Pothula, Stanley C. Yuan, David A. Maerz, Lucresia Montes, Stephen M. Oleszkiewicz, Albert Yusupov, Richard Perline, Mario Anthony Inchiosa, Jr. (2015)
 * [Predicting Length of Stay in Intensive Care Units after Cardiac Surgery: Comparison of Artificial Neural Networks and Adaptive Neuro-fuzzy System](https://e-hir.org/DOIx.php?id=10.4258/hir.2018.24.2.109) - Hamidreza Maharlou, Sharareh R. Niakan Kalhori, Shahrbanoo Shahbazi, Ramin Ravangard (2018)
+* [Machine learning techniques in cardiac risk assessment](https://pdfs.semanticscholar.org/a250/3dcd968261a15129718e1eeed73c55cf04ae.pdf) - Elif Kartal, Mehmet Erdal Balaban (2018)
 
 #### Revascularization
 * [Artificial intelligence to predict needs for urgent revascularization from 12-leads electrocardiography in emergency patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210103) - Shinichi Goto, Mai Kimura, Yoshinori Katsumata, Shinya Goto, Takashi Kamatani, Genki Ichihara, Seien Ko, Junichi Sasaki, Keiichi Fukuda, Motoaki Sano (2019)
