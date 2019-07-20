@@ -134,6 +134,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Individuals
 * [Personal Identification by Convolutional Neural Network with ECG Signal](https://ieeexplore.ieee.org/document/8539632) - Jianbo Xu, Tianhui Li, Ying Chen, Wenxi Chen (2018)
 * [Finger ECG based Two-phase Authentication Using 1D Convolutional Neural Networks](https://www.researchgate.net/publication/328991830_Finger_ECG_based_Two-phase_Authentication_Using_1D_Convolutional_Neural_Networks) - Ying Chen, Wenxi Chen (2018)
+* [ECG Authentication Method Based on Parallel Multi-scale One-dimensional Residual Network with Center and Margin Loss](https://www.researchgate.net/publication/332662657_ECG_Authentication_Method_Based_on_Parallel_Multi-scale_One-dimensional_Residual_Network_with_Center_and_Margin_Loss) - Yifan Chu, Haibin Shen, Kejie Huang (2019)
 * [ECG-based personal recognition using a convolutional neural network](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302004) - Yue Zhang, Zhibo Xiao, Zhenhua Guo, Ziliang Wang (2019)
 * [A Study on User Recognition Using 2D ECG Image Based on Ensemble Networks for Intelligent Vehicles](https://www.hindawi.com/journals/wcmc/2019/6458719/) - Min-Gu Kim, Hoon Ko, Sung Bum Pan (2019)
 
