@@ -106,6 +106,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Fog-Computing-Based Heartbeat Detection and Arrhythmia Classification Using Machine Learning](https://www.mdpi.com/1999-4893/12/2/32/htm) - Alessandro Scirè, Fabrizio Tropeano, Aris Anagnostopoulos, Ioannis Chatzigiannakis (2019)
 * [Adversarial Examples for Electrocardiograms](https://evidation.com/research/adversarial-examples-for-ecg/) - X. Han, Y. Hu, L. Foschini, L. Jankelson, R. Ranganath (2019)
 * [Rethinking multiscale cardiac electrophysiology with machine learning and predictive modelling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334203/) - Chris D. Cantwell, Yumnah Mohamied, Konstantinos N. Tzortzis, Stef Garasto, Charles Houston, Rasheda A. Chowdhury, Fu Siong Ng, Anil A. Bharath, Nicholas S. Peters (2019)
+* [A new approach for arrhythmia classification using deep coded features and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0169260718314329) - Ozal Yildirim, Ulas Baran Baloglua, Ru-San Tan, Edward J.Ciaccio, U. Rajendra Acharya (2019)
 * [Computer-Aided Arrhythmia Diagnosis with Bio-signal Processing: A Survey of Trends and Techniques](https://www.researchgate.net/publication/331586318_Computer-Aided_Arrhythmia_Diagnosis_with_Bio-signal_Processing_A_Survey_of_Trends_and_Techniques) - Sai Manoj, Axel Jantsch, Axel Jantsch, Muhammad Shafique, Muhammad Shafique (2019)
 
 ##### Signal optimization
