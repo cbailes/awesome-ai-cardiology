@@ -72,6 +72,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Computer-Aided Arrhythmia Diagnosis by Learning ECG Signal](https://arxiv.org/pdf/1810.04123.pdf) - Sai Manoj, Matthias Wess (2018)
 * [On Arrhythmia Detection by Deep Learning and Multidimensional Representation](https://arxiv.org/abs/1904.00138) - K.S. Rajput, S. Wibowo, C. Hao, M. Majmudar (2019)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://stanfordmlgroup.github.io/projects/ecg2/) - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng (2019)
+* [Wearable ECG signal processing for automated cardiac arrhythmia classification using CFASE‐based feature selection](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12432) Yuwei Zhang, Yuan Zhang, Benny Lo, Wenyao Xu (2019)
 * [Novel deep genetic ensemble of classifiers for arrhythmia detection using ECG signals](https://link.springer.com/article/10.1007/s00521-018-03980-2) - Paweł Pławiak, U. Rajendra Acharya (2019)
 * [Inter and Intra Patient ECG Heartbeat Classification For Arrhythmia Detection: A Sequence to Sequence Deep Learning Approach](https://engrxiv.org/uedzx/) - Sajad Mousavi, Fatemeh Afghah, U. Rajendra Acharya (2019)
 * [Deep Learning of Arrhythmia Analysis Based on Convolutional Neural Network](http://www.ijbem.org/volume21/number1/48-58.pdf) - Anake Pomprapa , Waqar Ahmeda, André Stollenwerk , Stefan Kowalewskib, and Steffen Leonhardt (2019)
