@@ -5,9 +5,7 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 
 Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
-Inquiries welcome: contact@craigbailes.com
-
-© 2019 Craig Bailes (@cbailes)
+© 2019 Craig Bailes ( @cbailes | contact@craigbailes.com )
 
 ## Code repositories
 * [awni/ecg](https://github.com/awni/ecg) - Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
