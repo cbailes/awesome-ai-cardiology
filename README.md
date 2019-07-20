@@ -58,6 +58,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Cardiac Arrhythmia Classification by Multi-Layer Perceptron and Convolution Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027502/) - Shalin Savalia, Vahid Emamian (2018)
 * [ECG Arrhythmia Classification Using Transfer Learning from 2-Dimensional Deep CNN Features](https://arxiv.org/abs/1812.04693) - Milad Salem, Shayan Taheri, Jiann Shiun-Yuan (2018)
 * [Arrhythmia Classification in Multi-Channel ECG Signals Using Deep Neural Networks](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-80.pdf) - Kyungna Kim (2018)
+* [Cardiac Arrhythmia Classification Using Machine Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_42) - Namrata Singh, Pradeep Singh (2018)
 * [Artificial Intelligence in Cardiac Arrhythmia Classification](https://www.semanticscholar.org/paper/Artificial-Intelligence-in-Cardiac-Arrhythmia-Chen-Li/9e529054f02107d00cd11ab34df7522f3545dee6) - Siteng Chen, An-Jui. Li, Janet Roveda (2018)
 * [On Arrhythmia Detection by Deep Learning and Multidimensional Representation](https://arxiv.org/abs/1904.00138) - K.S. Rajput, S. Wibowo, C. Hao, M. Majmudar (2019)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://stanfordmlgroup.github.io/projects/ecg2/) - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng (2019)
