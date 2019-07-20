@@ -166,6 +166,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Artificial Intelligence Improves Accuracy of Heart Failure Readmission Risk Predictions](https://www.healthcatalyst.com/success_stories/machine-learning-in-heart-failure-multicare) - HealthCatalyst, Pulse Heart Institute, MultiCare (2018)
 * [Deep Learning Approach for Predicting 30 Day Readmissions after Coronary Artery Bypass Graft Surgery](https://arxiv.org/abs/1812.00596) - Ramesh B. Manyam, Yanqing Zhang, William B. Keeling, Jose Binongo, Michael Kayatta, Seth Carter (2018)
 * [Machine Learning Prediction of Response to Cardiac Resynchronization Therapy](https://www.ahajournals.org/doi/10.1161/CIRCEP.119.007316) - Albert K. Feeny, John Rickard, Divyang Patel, Saleem Toro, Kevin M. Trulock, Carolyn J. Park, Michael A. LaBarbera, Niraj Varma, Mark J. Niebauer, Sunil Sinha, Eiran Z. Gorodeski, Richard A. Grimm, Xinge Ji, John Barnard, Anant Madabhushi, David D. Spragg, Mina K. Chung (2019)
+* [Predicting Long-Term Mortality after Acute Coronary Syndrome Using Machine Learning Techniques and Hematological Markers](https://www.hindawi.com/journals/dm/2019/9056402/) - Konrad Pieszko, Jarosław Hiczkiewicz, Paweł Budzianowski, Jan Budzianowski, Janusz Rzeźniczak, Karolina Pieszko, Paweł Burchardt (2019)
 
 ### Identification
 #### Devices
