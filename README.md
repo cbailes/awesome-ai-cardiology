@@ -47,6 +47,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Water–fat separation and parameter mapping in cardiac MRI via deep learning with a convolutional neural network](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26658) - James W. Goldfarb, Jason Craft, J. Jane Cao (2019)
 
 #### Arrhythmias
+* [Classification of arrhythmia using machine learning techniques](https://pdfs.semanticscholar.org/b37e/d3ee8dab4e8609223eb9155ae3a8cdf612ce.pdf) - Thara Soman, Patrick O. Bobbie (2004)
 * [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) - Serkan Kiranyaz, Turker Ince, Moncef Gabbouj (2015)
 * [Deep learning approach for active classification of electrocardiogram signals](https://www.sciencedirect.com/science/article/pii/S0020025516300184) - M. M. Al Rahhal, Yakoub Bazi, Haikel AlHichria, NaifAlajlan, Farid Melgani, R. R.Yager (2016)
 * [Deep learning algorithm for arrhythmia detection](https://ieeexplore.ieee.org/abstract/document/8228452) - Hilmy Assodiky, Iwan Syarif, Tessy Badriyah (2017)
