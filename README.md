@@ -127,10 +127,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Multiclass classification of myocardial infarction with convolutional and recurrent neural networks for portable ECG devices](https://www.sciencedirect.com/science/article/pii/S2352914818301333) - Hin Wai Lui, King Lau Chow (2018)
 * [A Simple and Effective Method for Detecting Myocardial Infarction Based on Deep Convolutional Neural Network](https://www.researchgate.net/publication/327375583_A_Simple_and_Effective_Method_for_Detecting_Myocardial_Infarction_Based_on_Deep_Convolutional_Neural_Network) - Na Liu, Ludi Wang, Qing Chang, Ying Xing, Xiaoguang Zhou (2018)
 * [Detecting and interpreting myocardial infarction using fully convolutional neural networks](https://arxiv.org/pdf/1806.07385.pdf) - Nils Strodthoff, Claas Strodthoff (2019)
-* [Automated interpretable detection of myocardial infarction fusing energy entropy and morphological features](https://www.sciencedirect.com/science/article/pii/S0169260719301531) - Chuang Han, Li Shi (2019)
-* [Classification of Myocardial Infarction with Multi-Lead ECG Signals and Deep CNN](https://www.researchgate.net/publication/331035341_Classification_of_Myocardial_Infarction_with_Multi-Lead_ECG_Signals_and_Deep_CNN) - Ulas Baran Baloglu, Muhammed Talo, Özal yıldırım, Ru San Tan, U Rajendra Acharya (2019)
 * [Automated Detection and Localization of Myocardial Infarction with Staked Sparse Autoencoder and TreeBagger](https://www.researchgate.net/publication/333413230_Automated_Detection_and_Localization_of_Myocardial_Infarction_with_Staked_Sparse_Autoencoder_and_TreeBagger) - Jieshuo Zhang, Feng Lin, Peng Xiong, Haiman Du, Hong Zhang, Ming Liu, Zengguang Hou, Xiuling Liub (2019)
 * [A Wavelet-Based ECG Delineation and Automated Diagnosis of Myocardial Infarction in PTB Database](https://eudl.eu/pdf/10.4108/eai.24-4-2019.2284216) - Rachid Haddadi, Elhassane Abdelmounim, Mustapha El Hanine, Abdelaziz Belaguid (2019)
+* [A Novel Deep Transfer Learning Method for Detection of Myocardial Infarction](https://arxiv.org/abs/1906.09358) - Mohamed Adel Hammad (2019)
+* [Automated interpretable detection of myocardial infarction fusing energy entropy and morphological features](https://www.sciencedirect.com/science/article/pii/S0169260719301531) - Chuang Han, Li Shi (2019)
+* [Classification of Myocardial Infarction with Multi-Lead ECG Signals and Deep CNN](https://www.researchgate.net/publication/331035341_Classification_of_Myocardial_Infarction_with_Multi-Lead_ECG_Signals_and_Deep_CNN) - Ulas Baran Baloglu, Muhammed Talo, Özal yıldırım, Ru San Tan, U Rajendra Acharya (2019)
 
 ### Pharmacology
 
