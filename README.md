@@ -81,6 +81,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Cardiac Arrhythmia Classification Using Machine Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_42) - Namrata Singh, Pradeep Singh (2018)
 * [Analyzing single-lead short ECG recordings using dense convolutional neural networks and feature-based post-processing to detect atrial fibrillation](https://iopscience.iop.org/article/10.1088/1361-6579/aad5bd) - Saman Parvaneh, Jonathan Rubin, Asif Rahman, Bryan Conroy, Saeed Babaeizadeh (2018)
 * [Parallel use of a convolutional neural network and bagged tree ensemble for the classification of Holter ECG](https://iopscience.iop.org/article/10.1088/1361-6579/aad9ee) - Filip Plesinger, Petr Nejedly, Ivo Viscor, Josef Halamek, Pavel Jurak (2018)
+* [Classification of ECG Arrhythmia using Recurrent Neural Networks](https://www.sciencedirect.com/science/article/pii/S1877050918307774) - Shraddha Singh, Saroj Kumar Pandey, Urja Pawar, Rekh Ram Janghel (2018)
+* [Efficient wavelet families for ECG classification using neural classifiers](https://www.sciencedirect.com/science/article/pii/S1877050918307865) - Ritu Singh, Rajesh Mehta, Navin Rajpal (2018)
 * [Cardiac Arrhythmia Detection from ECG Combining Convolutional and Long Short-Term Memory Networks](https://arxiv.org/abs/1801.10033) - Philip Warrick, Masun Nabhan Homsi (2018)
 * [Artificial Intelligence in Cardiac Arrhythmia Classification](https://www.semanticscholar.org/paper/Artificial-Intelligence-in-Cardiac-Arrhythmia-Chen-Li/9e529054f02107d00cd11ab34df7522f3545dee6) - Siteng Chen, An-Jui. Li, Janet Roveda (2018)
 * [Arrhythmia Classification of ECG Signals Using Hybrid Features](https://www.hindawi.com/journals/cmmm/2018/1380348/) - Syed Muhammad Anwar, Maheen Gul, Muhammad Majid, Majdi Alnowami (2018)
@@ -117,6 +119,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Myocardial infarction
 * [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
 * [Myocardial infarction detection and classification — A new multi-scale deep feature learning approach](https://ieeexplore.ieee.org/document/7868568) - J. F. Wu, Y. L. Bao, S. C. Chan, H. C. Wu, L. Zhang, X. G. Wei (2016)
+* [Classification of Myocardial Infarction Using Multi Resolution Wavelet Analysis of ECG](https://www.sciencedirect.com/science/article/pii/S2212017316302857) - R. S. Remya, K. P. Indiradevi, K. K. Anish Babu (2016)
 * [Multiclass classification of myocardial infarction with convolutional and recurrent neural networks for portable ECG devices](https://www.sciencedirect.com/science/article/pii/S2352914818301333) - Hin Wai Lui, King Lau Chow (2018)
 * [Detecting and interpreting myocardial infarction using fully convolutional neural networks](https://arxiv.org/pdf/1806.07385.pdf) - Nils Strodthoff, Claas Strodthoff (2019)
 
