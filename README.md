@@ -79,6 +79,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Arrhythmia Classification of ECG Signals Using Hybrid Features](https://www.hindawi.com/journals/cmmm/2018/1380348/) - Syed Muhammad Anwar, Maheen Gul, Muhammad Majid, Majdi Alnowami (2018)
 * [Computer-Aided Arrhythmia Diagnosis by Learning ECG Signal](https://arxiv.org/pdf/1810.04123.pdf) - Sai Manoj, Matthias Wess (2018)
 * [A robust deep convolutional neural network for the classification of abnormal cardiac rhythm using varying length single lead electrocardiogram](https://www.researchgate.net/publication/322703262_A_robust_deep_convolutional_neural_network_for_the_classification_of_abnormal_cardiac_rhythm_using_varying_length_single_lead_electrocardiogram) - Rishikesan Kamaleswaran, Ruhi Mahajan, Oguz Akbilgic (2018)
+* [An Attention-Based CNN for ECG Classification](https://link.springer.com/chapter/10.1007/978-3-030-17795-9_49) - Alexander KuvaevRoman Khudorozhkov (2019)
 * [On Arrhythmia Detection by Deep Learning and Multidimensional Representation](https://arxiv.org/abs/1904.00138) - K.S. Rajput, S. Wibowo, C. Hao, M. Majmudar (2019)
 * [Assessment of Electrocardiogram Rhythms by GoogLeNet Deep Neural Network Architecture](https://www.hindawi.com/journals/jhe/2019/2826901/) - Jeong-Hwan Kim, Seung-Yeon Seo, Chul-Gyu Song, Kyeong-Seop Kim (2019)
 * [Multi-class Arrhythmia detection from 12-lead varied-length ECG using Attention-based Time-Incremental Convolutional Neural Network](https://www.sciencedirect.com/science/article/pii/S1566253518307632) - Qihang Yao, Ruxin Wang, Xiaomao Fan, Jikui Liu, Ye Li (2019)
@@ -93,6 +94,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Adversarial Examples for Electrocardiograms](https://evidation.com/research/adversarial-examples-for-ecg/) - X. Han, Y. Hu, L. Foschini, L. Jankelson, R. Ranganath (2019)
 * [Rethinking multiscale cardiac electrophysiology with machine learning and predictive modelling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334203/) - Chris D. Cantwell, Yumnah Mohamied, Konstantinos N. Tzortzis, Stef Garasto, Charles Houston, Rasheda A. Chowdhury, Fu Siong Ng, Anil A. Bharath, Nicholas S. Peters (2019)
 * [Computer-Aided Arrhythmia Diagnosis with Bio-signal Processing: A Survey of Trends and Techniques](https://www.researchgate.net/publication/331586318_Computer-Aided_Arrhythmia_Diagnosis_with_Bio-signal_Processing_A_Survey_of_Trends_and_Techniques) - Sai Manoj, Axel Jantsch, Axel Jantsch, Muhammad Shafique, Muhammad Shafique (2019)
+
+##### Signal optimization
+* [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
 
 ### Pharmacology
 
