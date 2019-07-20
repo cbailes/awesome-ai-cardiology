@@ -56,6 +56,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep learning algorithm for arrhythmia detection](https://ieeexplore.ieee.org/abstract/document/8228452) - Hilmy Assodiky, Iwan Syarif, Tessy Badriyah (2017)
 * [Cardiologist-Level Arrhythmia Detection With Convolutional Neural Networks](https://stanfordmlgroup.github.io/projects/ecg/) - Pranav Rajpurkar, Awni Hannun, Masoumeh Haghpanahi, Codie Bourn, and Andrew Ng (2017)
 * [Computational techniques for ECG analysis and interpretation in light of their contribution to medical advances](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2017.0821) - Aurore Lyon, Ana Minchole, Juan Pablo Martinez, Pablo Laguna, Blanca Rodriguez (2017)
+* [Arrhythmia Evaluation in Wearable ECG Devices](https://www.mdpi.com/1424-8220/17/11/2445/pdf) - Muammar Sadrawi , Chien-Hung Lin, Yin-Tsong Lin, Yita Hsieh, Chia-Chun Kuo, Jen Chien Chien, Koichi Haraikawa, Maysam F. Abbod, Jiann-Shing Shieh (2017)
 * [Classification of ECG Arrhythmia with Machine Learning Techniques](https://ieeexplore.ieee.org/document/8260688) - Halil Ibrahim, Nese Usta, Musa Yildiz (2017)
 * [Cardiac arrhythmia detection using deep learning](https://www.researchgate.net/publication/321812830_Cardiac_arrhythmia_detection_using_deep_learning) - Ali Isina, Selen Ozdalilib (2017)
 * [Multiclass Classification of Cardiac Arrhythmia Using Improved Feature Selection and SVM Invariants](https://www.hindawi.com/journals/cmmm/2018/7310496/) - Anam Mustaqeem, Syed Muhammad Anwar, Muahammad Majid (2018)
