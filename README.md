@@ -134,6 +134,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Anthropometric Predictors and Artificial Neural Networks in the diagnosis of Hypertension](https://www.researchgate.net/publication/300338220_Anthropometric_Predictors_and_Artificial_Neural_Networks_in_the_diagnosis_of_Hypertension) - Krzysztof Pytel, Tadeusz Nawarycz, Wojciech Drygas, Lidia Ostrowska-Nawarycz (2015)
 * [Learning to Identify Patients at Risk of Uncontrolled Hypertension Using Electronic Health Records Data](https://arxiv.org/pdf/1907.00089.pdf) - Ramin Mohammadi, Sarthak Jain, Stephen Agboola, Ramya Palacholla, Sagar Kamarthi, Byron C. Wallace (2019)
 
+#### Myocardial infarction
+* [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
+
 #### Revascularization
 * [Artificial intelligence to predict needs for urgent revascularization from 12-leads electrocardiography in emergency patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210103) - Shinichi Goto, Mai Kimura, Yoshinori Katsumata, Shinya Goto, Takashi Kamatani, Genki Ichihara, Seien Ko, Junichi Sasaki, Keiichi Fukuda, Motoaki Sano (2019)
 
