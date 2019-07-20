@@ -127,8 +127,12 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [A deep neural network to enhance prediction of 1-year mortality using echocardiographic videos of the heart](https://arxiv.org/abs/1811.10553) - Alvaro Ulloa, Linyuan Jing, Christopher W Good, David P vanMaanen, Sushravya Raghunath, Jonathan D Suever, Christopher D Nevius, Gregory J Wehner, Dustin Hartzel, Joseph B Leader, Amro Alsaid, Aalpen A Patel, H Lester Kirchner, Marios S Pattichis, Christopher M Haggerty, Brandon K Fornwalt (2018)
 * [Machine Learning Prediction of Response to Cardiac Resynchronization Therapy](https://www.ahajournals.org/doi/10.1161/CIRCEP.119.007316) - Albert K. Feeny, John Rickard, Divyang Patel, Saleem Toro, Kevin M. Trulock, Carolyn J. Park, Michael A. LaBarbera, Niraj Varma, Mark J. Niebauer, Sunil Sinha, Eiran Z. Gorodeski, Richard A. Grimm, Xinge Ji, John Barnard, Anant Madabhushi, David D. Spragg, Mina K. Chung (2019)
 
-### Device identification
+### Identification
+#### Devices
 * [Cardiac Rhythm Device Identification Using Neural Networks](http://electrophysiology.onlinejacc.org/content/5/5/576) - James P. Howard, Louis Fisher, Matthew J. Shun-Shin, Daniel Keene, Ahran D. Arnold, Yousif Ahmad, Christopher M. Cook, James C. Moon, Charlotte H. Manisty, Zach I. Whinnett, Graham D. Cole, Daniel Rueckert, Darrel P. Francis (2019)
+
+#### Individuals
+* [ECG-based personal recognition using a convolutional neural network](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302004) - Yue Zhang, Zhibo Xiao, Zhenhua Guo, Ziliang Wang (2019)
 
 ## Official trials
 * [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG) @ ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
