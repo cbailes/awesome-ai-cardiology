@@ -71,6 +71,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Cardiac Arrhythmia Classification Using Machine Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_42) - Namrata Singh, Pradeep Singh (2018)
 * [Analyzing single-lead short ECG recordings using dense convolutional neural networks and feature-based post-processing to detect atrial fibrillation](https://iopscience.iop.org/article/10.1088/1361-6579/aad5bd) - Saman Parvaneh, Jonathan Rubin, Asif Rahman, Bryan Conroy, Saeed Babaeizadeh (2018)
 * [Parallel use of a convolutional neural network and bagged tree ensemble for the classification of Holter ECG](https://iopscience.iop.org/article/10.1088/1361-6579/aad9ee) - Filip Plesinger, Petr Nejedly, Ivo Viscor, Josef Halamek, Pavel Jurak (2018)
+* [Cardiac Arrhythmia Detection from ECG Combining Convolutional and Long Short-Term Memory Networks](https://arxiv.org/abs/1801.10033) - Philip Warrick, Masun Nabhan Homsi (2018)
 * [Artificial Intelligence in Cardiac Arrhythmia Classification](https://www.semanticscholar.org/paper/Artificial-Intelligence-in-Cardiac-Arrhythmia-Chen-Li/9e529054f02107d00cd11ab34df7522f3545dee6) - Siteng Chen, An-Jui. Li, Janet Roveda (2018)
 * [Arrhythmia Classification of ECG Signals Using Hybrid Features](https://www.hindawi.com/journals/cmmm/2018/1380348/) - Syed Muhammad Anwar, Maheen Gul, Muhammad Majid, Majdi Alnowami (2018)
 * [Computer-Aided Arrhythmia Diagnosis by Learning ECG Signal](https://arxiv.org/pdf/1810.04123.pdf) - Sai Manoj, Matthias Wess (2018)
