@@ -120,12 +120,15 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Myocardial infarction
 * [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
+* [Automated Risk Identification of Myocardial Infarction Using Relative Frequency Band Coefficient (RFBC) Features from ECG](https://www.researchgate.net/publication/51177719_Automated_Risk_Identification_of_Myocardial_Infarction_Using_Relative_Frequency_Band_Coefficient_RFBC_Features_from_ECG) - Bakul Gohel, Uma Shanker Tiwary (2010)
 * [Myocardial infarction detection and classification — A new multi-scale deep feature learning approach](https://ieeexplore.ieee.org/document/7868568) - J. F. Wu, Y. L. Bao, S. C. Chan, H. C. Wu, L. Zhang, X. G. Wei (2016)
 * [Classification of Myocardial Infarction Using Multi Resolution Wavelet Analysis of ECG](https://www.sciencedirect.com/science/article/pii/S2212017316302857) - R. S. Remya, K. P. Indiradevi, K. K. Anish Babu (2016)
 * [Multiclass classification of myocardial infarction with convolutional and recurrent neural networks for portable ECG devices](https://www.sciencedirect.com/science/article/pii/S2352914818301333) - Hin Wai Lui, King Lau Chow (2018)
 * [Detecting and interpreting myocardial infarction using fully convolutional neural networks](https://arxiv.org/pdf/1806.07385.pdf) - Nils Strodthoff, Claas Strodthoff (2019)
 * [Automated interpretable detection of myocardial infarction fusing energy entropy and morphological features](https://www.sciencedirect.com/science/article/pii/S0169260719301531) - Chuang Han, Li Shi (2019)
 * [Classification of Myocardial Infarction with Multi-Lead ECG Signals and Deep CNN](https://www.researchgate.net/publication/331035341_Classification_of_Myocardial_Infarction_with_Multi-Lead_ECG_Signals_and_Deep_CNN) - Ulas Baran Baloglu, Muhammed Talo, Özal yıldırım, Ru San Tan, U Rajendra Acharya (2019)
+* [Automated Detection and Localization of Myocardial Infarction with Staked Sparse Autoencoder and TreeBagger](https://www.researchgate.net/publication/333413230_Automated_Detection_and_Localization_of_Myocardial_Infarction_with_Staked_Sparse_Autoencoder_and_TreeBagger) - Jieshuo Zhang, Feng Lin, Peng Xiong, Haiman Du, Hong Zhang, Ming Liu, Zengguang Hou, Xiuling Liub (2019)
+
 
 ### Pharmacology
 
