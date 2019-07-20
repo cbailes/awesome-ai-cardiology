@@ -140,6 +140,8 @@ Inquiries welcome: contact@craigbailes.com
 * [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
 
 #### Surgery
+* [Predicting Mortality after Coronary Artery Bypass Surgery: What Do Artificial Neural Networks Learn?](https://www.researchgate.net/publication/297987046_Predicting_Mortality_after_Coronary_Artery_Bypass_Surgery_What_Do_Artificial_Neural_Networks_Learn) - Jack V Tu, Milton C. Weinstein, Barbara J Mcneil, C. David Naylor (1998)
+* [The determination of cardiac surgical risk using artificial neural networks](https://www.ncbi.nlm.nih.gov/pubmed/11120637) - Dan A. Buzatu, Kim K. Taylor, Daniel C. Peret, Nicholas P. Lang (2001)
 * [Risk factor identification and mortality prediction in cardiac surgery using artificial neural networks](https://www.jtcvs.org/article/S0022-5223(06)00124-3/fulltext) - Johan Nilsson, Mattias Ohlsson, Lars Thulin, Peter Höglund, Samer A.M. Nashef, Johan Brandt (2006)
 * [Predicting adverse outcomes of cardiac surgery with the application of artificial neural networks](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2044.2008.05478.x) - S. Y. Peng, S. K. Peng (2008)
 
@@ -148,7 +150,6 @@ Inquiries welcome: contact@craigbailes.com
 
 ### Prognostics
 * [Use of a neural network as a predictive instrument for length of stay in the intensive care unit following cardiac surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2248140/) - J. V. Tu, M. R. Guerriere (1992)
-* [Predicting Mortality after Coronary Artery Bypass Surgery: What Do Artificial Neural Networks Learn?](https://www.researchgate.net/publication/297987046_Predicting_Mortality_after_Coronary_Artery_Bypass_Surgery_What_Do_Artificial_Neural_Networks_Learn) - Jack V Tu, Milton C. Weinstein, Barbara J Mcneil, C. David Naylor (1998)
 * [Machine learning improves the long-term prognostic value of sequential cardiac PET/CT](https://academic.oup.com/eurheartj/article-abstract/39/suppl_1/ehy563.3003/5080092) - L E Juarez-Orozco T Maaniitty O Martinez-Manzanera A Saraste J Knuuti (2018)
 * [A deep neural network to enhance prediction of 1-year mortality using echocardiographic videos of the heart](https://arxiv.org/abs/1811.10553) - Alvaro Ulloa, Linyuan Jing, Christopher W Good, David P vanMaanen, Sushravya Raghunath, Jonathan D Suever, Christopher D Nevius, Gregory J Wehner, Dustin Hartzel, Joseph B Leader, Amro Alsaid, Aalpen A Patel, H Lester Kirchner, Marios S Pattichis, Christopher M Haggerty, Brandon K Fornwalt (2018)
 * [Artificial Intelligence Improves Accuracy of Heart Failure Readmission Risk Predictions](https://www.healthcatalyst.com/success_stories/machine-learning-in-heart-failure-multicare) - HealthCatalyst, Pulse Heart Institute, MultiCare (2018)
