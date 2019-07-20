@@ -127,6 +127,9 @@ Inquiries welcome: contact@craigbailes.com
 * [DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction](https://arxiv.org/pdf/1802.02511.pdf) - Brandon Ballinger, Johnson Hsieh, Avesh Singh, Nimit Sohoni, Jack Wan, Geoffrey H. Tison, Gregory M. Marcus, Jose M. Sanchez, Carol Maguire Jeffrey E. Olgin, Mark J. Pletcher (2018)
 * [Deep learning in quantitative PET myocardial perfusion imaging to predict adverse cardiovascular events](https://academic.oup.com/ehjcimaging/article/20/Supplement_3/jez145.005/5512889) - L E Juarez-Orozco O Martinez-Manzanera F M Van Der Zant R J J Knol J Knuuti (2019)
 
+#### Acute coronary syndrome
+* [Machine Learning Improves Risk Stratification After Acute Coronary Syndrome](https://www.nature.com/articles/s41598-017-12951-x) - Paul D. Myers, Benjamin M. Scirica, Collin M. Stultz (2017)
+
 #### Cardiopulmonary arrest
 * [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
 
