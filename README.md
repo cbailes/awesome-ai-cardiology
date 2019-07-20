@@ -68,6 +68,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Cardiac Arrhythmia Classification Using Machine Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_42) - Namrata Singh, Pradeep Singh (2018)
 * [Artificial Intelligence in Cardiac Arrhythmia Classification](https://www.semanticscholar.org/paper/Artificial-Intelligence-in-Cardiac-Arrhythmia-Chen-Li/9e529054f02107d00cd11ab34df7522f3545dee6) - Siteng Chen, An-Jui. Li, Janet Roveda (2018)
 * [Arrhythmia Classification of ECG Signals Using Hybrid Features](https://www.hindawi.com/journals/cmmm/2018/1380348/) - Syed Muhammad Anwar, Maheen Gul, Muhammad Majid, Majdi Alnowami (2018)
+* [Computer-Aided Arrhythmia Diagnosis by Learning ECG Signal](https://arxiv.org/pdf/1810.04123.pdf) - Sai Manoj, Matthias Wess (2018)
 * [On Arrhythmia Detection by Deep Learning and Multidimensional Representation](https://arxiv.org/abs/1904.00138) - K.S. Rajput, S. Wibowo, C. Hao, M. Majmudar (2019)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://stanfordmlgroup.github.io/projects/ecg2/) - Awni Y. Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng (2019)
 * [Novel deep genetic ensemble of classifiers for arrhythmia detection using ECG signals](https://link.springer.com/article/10.1007/s00521-018-03980-2) - Paweł Pławiak, U. Rajendra Acharya (2019)
