@@ -118,16 +118,23 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Artificial Neural Network Modeling of Sustained Antihypertensive Drug Delivery using Polyelectrolyte Complex based on Carboxymethyl-kappa-carrageenan and Chitosan as Prospective Carriers](https://ieeexplore.ieee.org/document/8651985) - Sonia Lefnaoui, Samia Rebouh, Mounir Bouhedda, Madiha M. Yahoum, Salah Hanini (2018)
 
 ### Prediction
-* [Evaluating the risk of hypertension using an artificial neural network method in rural residents over the age of 35 years in a Chinese area](https://www.nature.com/articles/hr201073) - Shuqiong Huang, Yihua Xu, Li Yue, Sheng Wei, Li Liu, Xiumin Gan, Shuihong Zhou, Shaofa Nie - (2010)
-* [Pre-Diagnosis of Hypertension Using Artificial Neural Network](https://globaljournals.org/GJCST_Volume11/5-Pre-Diagnosis-of-Hypertension-Using-Artificial-Neural-Network.pdf) - B. Sumathi, A. Santhakumaran (2011)
-* [Anthropometric Predictors and Artificial Neural Networks in the diagnosis of Hypertension](https://www.researchgate.net/publication/300338220_Anthropometric_Predictors_and_Artificial_Neural_Networks_in_the_diagnosis_of_Hypertension) - Krzysztof Pytel, Tadeusz Nawarycz, Wojciech Drygas, Lidia Ostrowska-Nawarycz (2015)
 * [Machine Learning Data Imputation and Classification in a Multicohort Hypertension Clinical Study](https://journals.sagepub.com/doi/full/10.4137/BBI.S29473) - William Seffens, Chad Evans, Taylor Minority Health-Grid Network And Herman (2016)
 * [Artificial Intelligence in Mitral Valve Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408514/) - Jelliffe Jeganathan, Ziyad Knio, Yannis Amador, Ting Hai, Arash Khamooshian, Robina Matyal, Kamal R Khabbaz, Feroze Mahmood (2017)
 * [Improving the value of clinical variables in the assessment of cardiovascular risk using Artificial Neural Networks](https://academic.oup.com/eurheartj/article/38/suppl_1/ehx502.P1089/4088432) - L.E. Juarez-Orozco R.J.J. Knol C.A. Sanchez-Catasus F.M. Van Der Zant J. Knuuti (2017)
-* [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
 * [DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction](https://arxiv.org/pdf/1802.02511.pdf) - Brandon Ballinger, Johnson Hsieh, Avesh Singh, Nimit Sohoni, Jack Wan, Geoffrey H. Tison, Gregory M. Marcus, Jose M. Sanchez, Carol Maguire Jeffrey E. Olgin, Mark J. Pletcher (2018)
 * [Deep learning in quantitative PET myocardial perfusion imaging to predict adverse cardiovascular events](https://academic.oup.com/ehjcimaging/article/20/Supplement_3/jez145.005/5512889) - L E Juarez-Orozco O Martinez-Manzanera F M Van Der Zant R J J Knol J Knuuti (2019)
 * [Learning to Identify Patients at Risk of Uncontrolled Hypertension Using Electronic Health Records Data](https://arxiv.org/pdf/1907.00089.pdf) - Ramin Mohammadi, Sarthak Jain, Stephen Agboola, Ramya Palacholla, Sagar Kamarthi, Byron C. Wallace (2019)
+
+#### Cardiopulmonary arrest
+* [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
+
+#### Hypertension
+* [Evaluating the risk of hypertension using an artificial neural network method in rural residents over the age of 35 years in a Chinese area](https://www.nature.com/articles/hr201073) - Shuqiong Huang, Yihua Xu, Li Yue, Sheng Wei, Li Liu, Xiumin Gan, Shuihong Zhou, Shaofa Nie - (2010)
+* [Pre-Diagnosis of Hypertension Using Artificial Neural Network](https://globaljournals.org/GJCST_Volume11/5-Pre-Diagnosis-of-Hypertension-Using-Artificial-Neural-Network.pdf) - B. Sumathi, A. Santhakumaran (2011)
+* [Anthropometric Predictors and Artificial Neural Networks in the diagnosis of Hypertension](https://www.researchgate.net/publication/300338220_Anthropometric_Predictors_and_Artificial_Neural_Networks_in_the_diagnosis_of_Hypertension) - Krzysztof Pytel, Tadeusz Nawarycz, Wojciech Drygas, Lidia Ostrowska-Nawarycz (2015)
+
+#### Revascularization
+* [Artificial intelligence to predict needs for urgent revascularization from 12-leads electrocardiography in emergency patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210103) - Shinichi Goto, Mai Kimura, Yoshinori Katsumata, Shinya Goto, Takashi Kamatani, Genki Ichihara, Seien Ko, Junichi Sasaki, Keiichi Fukuda, Motoaki Sano (2019)
 
 ### Prognostics
 * [Machine learning improves the long-term prognostic value of sequential cardiac PET/CT](https://academic.oup.com/eurheartj/article-abstract/39/suppl_1/ehy563.3003/5080092) - L E Juarez-Orozco T Maaniitty O Martinez-Manzanera A Saraste J Knuuti (2018)
