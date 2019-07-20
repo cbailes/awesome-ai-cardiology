@@ -116,6 +116,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Myocardial infarction
 * [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
+* [Myocardial infarction detection and classification — A new multi-scale deep feature learning approach](https://ieeexplore.ieee.org/document/7868568) - J. F. Wu, Y. L. Bao, S. C. Chan, H. C. Wu, L. Zhang, X. G. Wei (2016)
 * [Detecting and interpreting myocardial infarction using fully convolutional neural networks](https://arxiv.org/pdf/1806.07385.pdf) - Nils Strodthoff, Claas Strodthoff (2019)
 
 ### Pharmacology
