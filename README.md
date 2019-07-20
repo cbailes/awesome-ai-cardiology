@@ -48,6 +48,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Arrhythmias
 * [Classification of arrhythmia using machine learning techniques](https://pdfs.semanticscholar.org/b37e/d3ee8dab4e8609223eb9155ae3a8cdf612ce.pdf) - Thara Soman, Patrick O. Bobbie (2004)
+* [Artificial Neural Network Models based Cardiac Arrhythmia Disease Diagnosis from ECG Signal Data](https://pdfs.semanticscholar.org/d0d3/19f042d48abd7533f5f9d95aeda8da711a38.pdf) - Shivajirao M. Jadhav, Sanjay L. Nalbalwar, Ashok A. Ghatol (2012)
 * [Automated detection & classification of arrhythmias](http://cs229.stanford.edu/proj2014/Richard%20Tang,%20Saurabh%20Vyas,%20Automated%20Detection%20and%20Classification%20of%20Cardiac%20Arrhythmias.pdf) - Richard Tang, Saurabh Vyas (2014)
 * [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) - Serkan Kiranyaz, Turker Ince, Moncef Gabbouj (2015)
 * [Deep learning approach for active classification of electrocardiogram signals](https://www.sciencedirect.com/science/article/pii/S0020025516300184) - M. M. Al Rahhal, Yakoub Bazi, Haikel AlHichria, NaifAlajlan, Farid Melgani, R. R.Yager (2016)
