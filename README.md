@@ -114,6 +114,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Coronary disease
 * [Coronary heart disease diagnosis by artificial neural networks including aortic pulse wave velocity index and clinical parameters](https://journals.lww.com/jhypertension/Abstract/2019/08000/Coronary_heart_disease_diagnosis_by_artificial.19.aspx) - Alexandre Vallée, Alexandre Cinaud, Vincent Blachier, Hélène Lelong, Michel Safar, Jacques Blacher (2019)
 
+#### Myocardial infarction
+* [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
+* [Detecting and interpreting myocardial infarction using fully convolutional neural networks](https://arxiv.org/pdf/1806.07385.pdf) - Nils Strodthoff, Claas Strodthoff (2019)
+
 ### Pharmacology
 
 #### Efficacy
@@ -142,9 +146,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Pre-Diagnosis of Hypertension Using Artificial Neural Network](https://globaljournals.org/GJCST_Volume11/5-Pre-Diagnosis-of-Hypertension-Using-Artificial-Neural-Network.pdf) - B. Sumathi, A. Santhakumaran (2011)
 * [Anthropometric Predictors and Artificial Neural Networks in the diagnosis of Hypertension](https://www.researchgate.net/publication/300338220_Anthropometric_Predictors_and_Artificial_Neural_Networks_in_the_diagnosis_of_Hypertension) - Krzysztof Pytel, Tadeusz Nawarycz, Wojciech Drygas, Lidia Ostrowska-Nawarycz (2015)
 * [Learning to Identify Patients at Risk of Uncontrolled Hypertension Using Electronic Health Records Data](https://arxiv.org/pdf/1907.00089.pdf) - Ramin Mohammadi, Sarthak Jain, Stephen Agboola, Ramya Palacholla, Sagar Kamarthi, Byron C. Wallace (2019)
-
-#### Myocardial infarction
-* [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
 
 #### Surgery
 * [Predicting Mortality after Coronary Artery Bypass Surgery: What Do Artificial Neural Networks Learn?](https://www.researchgate.net/publication/297987046_Predicting_Mortality_after_Coronary_Artery_Bypass_Surgery_What_Do_Artificial_Neural_Networks_Learn) - Jack V Tu, Milton C. Weinstein, Barbara J Mcneil, C. David Naylor (1998)
