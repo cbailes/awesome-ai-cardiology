@@ -125,6 +125,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Multiclass classification of myocardial infarction with convolutional and recurrent neural networks for portable ECG devices](https://www.sciencedirect.com/science/article/pii/S2352914818301333) - Hin Wai Lui, King Lau Chow (2018)
 * [Detecting and interpreting myocardial infarction using fully convolutional neural networks](https://arxiv.org/pdf/1806.07385.pdf) - Nils Strodthoff, Claas Strodthoff (2019)
 * [Automated interpretable detection of myocardial infarction fusing energy entropy and morphological features](https://www.sciencedirect.com/science/article/pii/S0169260719301531) - Chuang Han, Li Shi (2019)
+* [Classification of Myocardial Infarction with Multi-Lead ECG Signals and Deep CNN](https://www.researchgate.net/publication/331035341_Classification_of_Myocardial_Infarction_with_Multi-Lead_ECG_Signals_and_Deep_CNN) - Ulas Baran Baloglu, Muhammed Talo, Özal yıldırım, Ru San Tan, U Rajendra Acharya (2019)
 
 ### Pharmacology
 
