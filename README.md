@@ -63,6 +63,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Papers
 * [Artificial Intelligence in Precision Cardiovascular Medicine](https://www.sciencedirect.com/science/article/pii/S0735109717368456) - Chayakrit Krittanawong, HongJu Zhang, Zhen Wang, Mehmet Aydar, Takeshi Kitai (2017)
+* [Deep learning for cardiac computer-aided diagnosis: benefits, issues & solutions](http://mhealth.amegroups.com/article/view/17021/17339) - Brian C. S. Loh, Patrick H. H. Then (2017)
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
 * [Blood Vessel Geometry Synthesis using Generative Adversarial Networks](https://arxiv.org/abs/1804.04381) - Jelmer M. Wolterink, Tim Leiner, Ivana Isgum (2018)
 * [Machine learning in cardiovascular medicine: are we there yet?](https://www.ncbi.nlm.nih.gov/pubmed/29352006) - Khader Shameer, Kipp W Johnson, Benjamin S Glicksberg, Joel T Dudley, Partho P Sengupta (2018)
