@@ -138,6 +138,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Coronary disease
 * [Coronary heart disease diagnosis by artificial neural networks including aortic pulse wave velocity index and clinical parameters](https://journals.lww.com/jhypertension/Abstract/2019/08000/Coronary_heart_disease_diagnosis_by_artificial.19.aspx) - Alexandre Vallée, Alexandre Cinaud, Vincent Blachier, Hélène Lelong, Michel Safar, Jacques Blacher (2019)
 
+#### Heart failure
+* [A deep-learning classifier identifies patients with clinical heart failure using whole-slide images of H&E tissue](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5882098/) - Jeffrey J. Nirschl, Andrew Janowczyk, Eliot G. Peyster, Renee Frank, Kenneth B. Margulies, Michael D. Feldman, Anant Madabhushi (2018)
+
 #### Myocardial infarction
 * [Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence](https://academic.oup.com/ajcp/article-abstract/96/1/134/1828762) - James W. Furlong, Milton E. Dupuy, James A. Heinsimer (1991)
 * [Automated Risk Identification of Myocardial Infarction Using Relative Frequency Band Coefficient (RFBC) Features from ECG](https://www.researchgate.net/publication/51177719_Automated_Risk_Identification_of_Myocardial_Infarction_Using_Relative_Frequency_Band_Coefficient_RFBC_Features_from_ECG) - Bakul Gohel, Uma Shanker Tiwary (2010)
