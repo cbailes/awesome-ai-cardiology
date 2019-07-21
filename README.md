@@ -33,6 +33,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Papers
 * [Artificial Intelligence in Precision Cardiovascular Medicine](https://www.sciencedirect.com/science/article/pii/S0735109717368456) - Chayakrit Krittanawong, HongJu Zhang, Zhen Wang, Mehmet Aydar, Takeshi Kitai (2017)
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
+* [Blood Vessel Geometry Synthesis using Generative Adversarial Networks](https://arxiv.org/abs/1804.04381) - Jelmer M. Wolterink, Tim Leiner, Ivana Isgum (2018)
 * [Deep Learning in Cardiology](https://arxiv.org/abs/1902.11122) - Paschalis Bizopoulos, Dimitrios Koutsouris (2019)
 * [Deep learning for cardiovascular medicine: a practical primer](https://academic.oup.com/eurheartj/article-abstract/40/25/2058/5366208) - Chayakrit Krittanawong, Kipp W Johnson, Robert S Rosenson, Zhen Wang, Mehmet Aydar, Usman Baber, James K Min, W H Wilson Tang, Jonathan L Halperin, Sanjiv M Narayan  (2019)
 * [Blood Pressure Classification Using the Method of the Modular Neural Networks](https://www.hindawi.com/journals/ijhy/2019/7320365/) - Martha Pulido, Patricia Melin, German Prado-Arechiga (2019)
