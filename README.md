@@ -92,7 +92,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Computer-Aided Arrhythmia Diagnosis by Learning ECG Signal](https://arxiv.org/pdf/1810.04123.pdf) - Sai Manoj, Matthias Wess (2018)
 * [A robust deep convolutional neural network for the classification of abnormal cardiac rhythm using varying length single lead electrocardiogram](https://www.researchgate.net/publication/322703262_A_robust_deep_convolutional_neural_network_for_the_classification_of_abnormal_cardiac_rhythm_using_varying_length_single_lead_electrocardiogram) - Rishikesan Kamaleswaran, Ruhi Mahajan, Oguz Akbilgic (2018)
 * [ECG Heartbeat Classification: A Deep Transferable Representation](https://arxiv.org/abs/1805.00794) - Mohammad Kachuee, Shayan Fazeli, Majid Sarrafzadeh (2018)
-* [An Attention-Based CNN for ECG Classification](https://link.springer.com/chapter/10.1007/978-3-030-17795-9_49) - Alexander KuvaevRoman Khudorozhkov (2019)
+* [An Attention-Based CNN for ECG Classification](https://link.springer.com/chapter/10.1007/978-3-030-17795-9_49) - Alexander Kuvaev, Roman Khudorozhkov (2019)
 * [ECG Classification Using Artificial Neural Networks](https://www.researchgate.net/publication/333771943_ECG_Classification_Using_Artificial_Neural_Networks) - F. A. Rivera Sánchez, J. A. González Cervera (2019)
 * [On Arrhythmia Detection by Deep Learning and Multidimensional Representation](https://arxiv.org/abs/1904.00138) - K.S. Rajput, S. Wibowo, C. Hao, M. Majmudar (2019)
 * [Assessment of Electrocardiogram Rhythms by GoogLeNet Deep Neural Network Architecture](https://www.hindawi.com/journals/jhe/2019/2826901/) - Jeong-Hwan Kim, Seung-Yeon Seo, Chul-Gyu Song, Kyeong-Seop Kim (2019)
@@ -116,6 +116,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Atherosclerosis
 * [A deep learning approach to classify atherosclerosis using intracoronary optical coherence tomography](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/109500N/A-deep-learning-approach-to-classify-atherosclerosis-using-intracoronary-optical/10.1117/12.2513078.short) - Lambros Athanasiou, Max Olender, José M. de la Torre Hernandez, Eyal Ben-Assa, Elazer Edelman (2019)
+* [Advanced atherosclerosis imaging by CT: Radiomics, machine learning and deep learning](https://www.journalofcardiovascularct.com/article/S1934-5925(18)30615-4/fulltext) - Márton Kolossváry, Carlo N. De Cecco, Gudrun Feuchtner, Pál Maurovich-Horvat (2019)
 
 #### Congenital disease
 * [Ontology based congenital heart disease diagnosis using neural networks](https://pdfs.semanticscholar.org/c248/1033deed024fd60e54e19b7616cec85e39d2.pdf) - A. Nirmala, Abinaya Sambath Kumar (2015)
