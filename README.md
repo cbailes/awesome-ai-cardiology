@@ -120,6 +120,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [An artificial neural network prediction model of congenital heart disease based on risk factors](https://journals.lww.com/md-journal/FullText/2017/02100/An_artificial_neural_network_prediction_model_of.50.aspx) - Huixia Li, Miyang Luo, Jianfei Zheng, Jiayou Luo, Rong Zeng, Na Feng, Qiyun Du, Junqun Fang (2017)
 * [Automated detection of coarctation of aorta in neonates from two-dimensional echocardiograms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5260631/) - Franklin Pereira, Alejandra Bueno, Andrea Rodriguez, Douglas Perrin, Gerald Marx, Michael Cardinale, Ivan Salgo, Pedro del Nidob (2017)
 * [Dilated Convolutional Neural Networks for Cardiovascular MR Segmentation in Congenital Heart Disease](https://arxiv.org/abs/1704.03669) - Jelmer M. Wolterink, Tim Leiner, Max A. Viergever, Ivana Išgum (2017)
+* [Deep-learning models improve on community-level diagnosis for common congenital heart disease lesions](https://arxiv.org/pdf/1809.06993.pdf) - Rima Arnaout, Lara Curran, Erin Chinn, Yili Zhao, Anita Moon-Grady (2018)
 
 #### Coronary disease
 * [Coronary heart disease diagnosis by artificial neural networks including aortic pulse wave velocity index and clinical parameters](https://journals.lww.com/jhypertension/Abstract/2019/08000/Coronary_heart_disease_diagnosis_by_artificial.19.aspx) - Alexandre Vallée, Alexandre Cinaud, Vincent Blachier, Hélène Lelong, Michel Safar, Jacques Blacher (2019)
