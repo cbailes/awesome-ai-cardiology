@@ -135,6 +135,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [A Novel Deep Transfer Learning Method for Detection of Myocardial Infarction](https://arxiv.org/abs/1906.09358) - Mohamed Adel Hammad (2019)
 * [Automated interpretable detection of myocardial infarction fusing energy entropy and morphological features](https://www.sciencedirect.com/science/article/pii/S0169260719301531) - Chuang Han, Li Shi (2019)
 * [Myocardial Infarction Classification Based on Convolutional Neural Network and Recurrent Neural Network](https://www.researchgate.net/publication/332974912_Myocardial_Infarction_Classification_Based_on_Convolutional_Neural_Network_and_Recurrent_Neural_Network) - Kai Feng, Xitian Pi, Hongying Liu, Kai Sun (2019)
+* [Deep Learning for Diagnosis of Chronic Myocardial Infarction on Nonenhanced Cardiac Cine MRI](https://pubs.rsna.org/doi/10.1148/radiol.2019182304) - Nan Zhang, Guang Yang, Zhifan Gao, Chenchu Xu, Yanping Zhang, Rui Shi, Jennifer Keegan, Lei Xu , Heye Zhang, Zhanming Fan, David Firmin (2019)
 * [Classification of Myocardial Infarction with Multi-Lead ECG Signals and Deep CNN](https://www.researchgate.net/publication/331035341_Classification_of_Myocardial_Infarction_with_Multi-Lead_ECG_Signals_and_Deep_CNN) - Ulas Baran Baloglu, Muhammed Talo, Özal yıldırım, Ru San Tan, U Rajendra Acharya (2019)
 
 ### Pharmacology
