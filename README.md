@@ -114,6 +114,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ##### Signal optimization
 * [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
 
+#### Atherosclerosis
+* [A deep learning approach to classify atherosclerosis using intracoronary optical coherence tomography](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/109500N/A-deep-learning-approach-to-classify-atherosclerosis-using-intracoronary-optical/10.1117/12.2513078.short) - Lambros Athanasiou, Max Olender, José M. de la Torre Hernandez, Eyal Ben-Assa, Elazer Edelman (2019)
+
 #### Congenital disease
 * [Ontology based congenital heart disease diagnosis using neural networks](https://pdfs.semanticscholar.org/c248/1033deed024fd60e54e19b7616cec85e39d2.pdf) - A. Nirmala, Abinaya Sambath Kumar (2015)
 * [Predicting congenital heart defects: A comparison of three data mining methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177811) - Yanhong Luo, Zhi Li, Husheng Guo, Hongyan Cao, Chunying Song, Xingping Guo, Yanbo Zhang (2017)
