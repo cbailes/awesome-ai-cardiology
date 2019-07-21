@@ -48,6 +48,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Clinical applications of machine learning in cardiovascular disease and its relevance to cardiac imaging](https://www.ncbi.nlm.nih.gov/pubmed/30060039) - SJ Al'Aref, K Anchouche, G Singh, PJ Slomka, KK Kolli, A Kumar, M Pandey, G Maliakal, AR van Rosendael, AN Beecy, DS Berman, J Leipsic, K Nieman, D Andreini, G Pontone, UJ Schoepf, LJ Shaw, HJ Chang, J Narula, JJ Bax, Y Guan, JK Min (2019)
 * [Machine Learning in the Evaluation of Myocardial Ischemia Through Nuclear Cardiology](https://link.springer.com/article/10.1007/s12410-019-9480-x) - Luis Eduardo Juarez-Orozco, Octavio Martinez-Manzanera, Andrea Ennio Storti, Juhani Knuuti (2019)
 * [Water–fat separation and parameter mapping in cardiac MRI via deep learning with a convolutional neural network](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26658) - James W. Goldfarb, Jason Craft, J. Jane Cao (2019)
+* [Deep echocardiography: data-efficient supervised and semi-supervised deep learning towards automated diagnosis of cardiac disease](https://www.nature.com/articles/s41746-018-0065-x) - Ali Madani, Jia Rui Ong, Anshul Tibrewal, Mohammad R. K. Mofrad (2018)
 
 #### Arrhythmias
 * [A Neural Network System for Detection of Atrial Fibrillation in Ambulatory Electrocardiograms](https://www.researchgate.net/publication/15210772_A_Neural_Network_System_for_Detection_of_Atrial_Fibrillation_in_Ambulatory_Electrocardiograms) - David Cubanski, David Cyganski, Elliott M. Antman, Charles L. Feldman (1994)
