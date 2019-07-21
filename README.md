@@ -115,8 +115,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
 
 #### Congenital disease
+* [Ontology based congenital heart disease diagnosis using neural networks](https://pdfs.semanticscholar.org/c248/1033deed024fd60e54e19b7616cec85e39d2.pdf) - A. Nirmala, Abinaya Sambath Kumar (2015)
 * [Predicting congenital heart defects: A comparison of three data mining methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177811) - Yanhong Luo, Zhi Li, Husheng Guo, Hongyan Cao, Chunying Song, Xingping Guo, Yanbo Zhang (2017)
 * [An artificial neural network prediction model of congenital heart disease based on risk factors](https://journals.lww.com/md-journal/FullText/2017/02100/An_artificial_neural_network_prediction_model_of.50.aspx) - Huixia Li, Miyang Luo, Jianfei Zheng, Jiayou Luo, Rong Zeng, Na Feng, Qiyun Du, Junqun Fang (2017)
+* [Automated detection of coarctation of aorta in neonates from two-dimensional echocardiograms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5260631/) - Franklin Pereira, Alejandra Bueno, Andrea Rodriguez, Douglas Perrin, Gerald Marx, Michael Cardinale, Ivan Salgo, Pedro del Nidob (2017)
 * [Dilated Convolutional Neural Networks for Cardiovascular MR Segmentation in Congenital Heart Disease](https://arxiv.org/abs/1704.03669) - Jelmer M. Wolterink, Tim Leiner, Max A. Viergever, Ivana Išgum (2017)
 
 #### Coronary disease
