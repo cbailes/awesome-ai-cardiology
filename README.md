@@ -121,6 +121,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Automated detection of coarctation of aorta in neonates from two-dimensional echocardiograms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5260631/) - Franklin Pereira, Alejandra Bueno, Andrea Rodriguez, Douglas Perrin, Gerald Marx, Michael Cardinale, Ivan Salgo, Pedro del Nidob (2017)
 * [Dilated Convolutional Neural Networks for Cardiovascular MR Segmentation in Congenital Heart Disease](https://arxiv.org/abs/1704.03669) - Jelmer M. Wolterink, Tim Leiner, Max A. Viergever, Ivana Išgum (2017)
 * [Deep-learning models improve on community-level diagnosis for common congenital heart disease lesions](https://arxiv.org/pdf/1809.06993.pdf) - Rima Arnaout, Lara Curran, Erin Chinn, Yili Zhao, Anita Moon-Grady (2018)
+* [Predicting deterioration of ventricular function in patients with repaired tetralogy of Fallot using machine learning](https://www.ncbi.nlm.nih.gov/pubmed/29538684) - Manar D Samad, Gregory J Wehner, Mohammad R Arbabshirani, Linyuan Jing, Andrew J Powell, Tal Geva, Christopher M Haggerty, Brandon K Fornwalt (2018)
 * [Real‐time cardiovascular MR with spatio‐temporal artifact suppression using deep learning–proof of concept in congenital heart disease](https://onlinelibrary.wiley.com/doi/10.1002/mrm.27480) - Andreas Hauptmann, Simon Arridge, Felix Lucka, Vivek Muthurangu, Jennifer A. Steeden (2018)
 
 #### Coronary disease
