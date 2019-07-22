@@ -19,6 +19,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
       * [Atherosclerosis](#atherosclerosis)
       * [Carotid](#carotid)
       * [Coronary](#coronary)
+      * [Peripheral](#peripheral)
     - [Congenital disease](#congenital-disease)
     - [Heart failure](#heart-failure)
     - [Myocardial infarction](#myocardial-infarction)
@@ -172,6 +173,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep learning analysis of the myocardium in coronary CT angiography for identification of patients with functionally significant coronary artery stenosis](https://www.researchgate.net/publication/321304894_Deep_learning_analysis_of_the_myocardium_in_coronary_CT_angiography_for_identification_of_patients_with_functionally_significant_coronary_artery_stenosis) - Majd Zreik, Nikolas Lessmann, Robbert van Hamersvelt, Jelmer Wolterink, Michiel Voskuil, Max A. Viergever, Tim Leiner, Ivana Išgum (2017)
 * [Coronary heart disease diagnosis by artificial neural networks including aortic pulse wave velocity index and clinical parameters](https://journals.lww.com/jhypertension/Abstract/2019/08000/Coronary_heart_disease_diagnosis_by_artificial.19.aspx) - Alexandre Vallée, Alexandre Cinaud, Vincent Blachier, Hélène Lelong, Michel Safar, Jacques Blacher (2019)
 
+##### Peripheral
+* [The use of machine learning for the identification of peripheral artery disease and future mortality risk](https://www.jvascsurg.org/article/S0741-5214(16)30166-5/fulltext) - Elsie Gyang Ross, Nigam H. Shah, Ronald L. Dalman, Kevin T. Nead, John P. Cooke, Nicholas J. Leeper, Nicholas J. Leeper, Nicholas J. Leeper (2016)
+
 #### Congenital disease
 * [Ontology based congenital heart disease diagnosis using neural networks](https://pdfs.semanticscholar.org/c248/1033deed024fd60e54e19b7616cec85e39d2.pdf) - A. Nirmala, Abinaya Sambath Kumar (2015)
 * [Predicting congenital heart defects: A comparison of three data mining methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177811) - Yanhong Luo, Zhi Li, Husheng Guo, Hongyan Cao, Chunying Song, Xingping Guo, Yanbo Zhang (2017)
@@ -254,6 +258,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ### Prognostics
 * [Use of a neural network as a predictive instrument for length of stay in the intensive care unit following cardiac surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2248140/) - J. V. Tu, M. R. Guerriere (1992)
+* [Use of Machine Learning to Accurately Predict Adverse Events in Patients With Peripheral Artery Disease Using Electronic Health Record Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079774/) - Elsie Gyang Ross, Nigam Shah, Ronald Dalman, Kevin Nead, John Cooke, Nicholas J. Leeper (2017)
 * [Machine learning improves the long-term prognostic value of sequential cardiac PET/CT](https://academic.oup.com/eurheartj/article-abstract/39/suppl_1/ehy563.3003/5080092) - L E Juarez-Orozco T Maaniitty O Martinez-Manzanera A Saraste J Knuuti (2018)
 * [A deep neural network to enhance prediction of 1-year mortality using echocardiographic videos of the heart](https://arxiv.org/abs/1811.10553) - Alvaro Ulloa, Linyuan Jing, Christopher W Good, David P vanMaanen, Sushravya Raghunath, Jonathan D Suever, Christopher D Nevius, Gregory J Wehner, Dustin Hartzel, Joseph B Leader, Amro Alsaid, Aalpen A Patel, H Lester Kirchner, Marios S Pattichis, Christopher M Haggerty, Brandon K Fornwalt (2018)
 * [Artificial Intelligence Improves Accuracy of Heart Failure Readmission Risk Predictions](https://www.healthcatalyst.com/success_stories/machine-learning-in-heart-failure-multicare) - HealthCatalyst, Pulse Heart Institute, MultiCare (2018)
