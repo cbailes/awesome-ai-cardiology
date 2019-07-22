@@ -166,6 +166,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ##### Carotid
 * [Neural network analysis of internal carotid arterial Doppler signals: predictions of stenosis and occlusion](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.5256&rep=rep1&type=pdf) - Elif Derya Übeyli, İnan Güler (2003)
+* [Adaptive neuro-fuzzy inference systems for analysis of internal carotid arterial Doppler signals](https://www.ncbi.nlm.nih.gov/pubmed/16124990) - Elif Derya Übeyli, İnan Güler (2005)
 * [Carotid Artery Characterization in Ultrasound Imaging using Machine Learning Techniques](http://iscb2017.info/uploadedFiles/ISCB2017.y23bw/fileManager/ISCB38%20SY3%20MARIA%20DEL%20MAR%20VILA.pdf) - Maria del Mar Vila (2017)
 * [Atherosclerotic carotid plaques on panoramic imaging: an automatic detection using deep learning with small dataset](https://arxiv.org/pdf/1808.08093.pdf) - Lazar Kats, Marilena Vered, Ayelet Zlotogorski-Hurvitz, Itai Harpaz (2018)
 
