@@ -17,6 +17,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
       * [Signal optimization](#signal-optimization)
     - [Artery disease](#artery-disease)
       * [Atherosclerosis](#atherosclerosis)
+      * [Carotid](#carotid)
       * [Coronary](#coronary)
     - [Congenital disease](#congenital-disease)
     - [Heart failure](#heart-failure)
@@ -161,6 +162,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Advanced atherosclerosis imaging by CT: Radiomics, machine learning and deep learning](https://www.journalofcardiovascularct.com/article/S1934-5925(18)30615-4/fulltext) - Márton Kolossváry, Carlo N. De Cecco, Gudrun Feuchtner, Pál Maurovich-Horvat (2019)
 * [A Machine Learning-Based Method for Intracoronary OCT Segmentation and Vulnerable Coronary Plaque Cap Thickness Quantification](https://www.researchgate.net/publication/322824245_A_Machine_Learning-Based_Method_for_Intracoronary_OCT_Segmentation_and_Vulnerable_Coronary_Plaque_Cap_Thickness_Quantification) - Xiaoya Guo, Dalin Tang, David Molony, Chun Yang, Habib Samady, Jie Zheng, Gary S. Mintz, Akiko Maehara, Liang Wang, Xuan Pei, Zhi-Yong Li, Genshan Ma, Don P. Giddens (2019)
 * [Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk](https://arxiv.org/abs/1809.04663) - Stephen Pfohl, Ben Marafino, Adrien Coulet, Fatima Rodriguez, Latha Palaniappan, Nigam H. Shah (2019)
+
+##### Carotid
+* [Neural network analysis of internal carotid arterial Doppler signals: predictions of stenosis and occlusion](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.5256&rep=rep1&type=pdf) - Elif Derya Übeyli, İnan Güler (2003)
+* [Carotid Artery Characterization in Ultrasound Imaging using Machine Learning Techniques](http://iscb2017.info/uploadedFiles/ISCB2017.y23bw/fileManager/ISCB38%20SY3%20MARIA%20DEL%20MAR%20VILA.pdf) - Maria del Mar Vila (2017)
+* [Atherosclerotic carotid plaques on panoramic imaging: an automatic detection using deep learning with small dataset](https://arxiv.org/pdf/1808.08093.pdf) - Lazar Kats, Marilena Vered, Ayelet Zlotogorski-Hurvitz, Itai Harpaz (2018)
 
 ##### Coronary
 * [Deep learning analysis of the myocardium in coronary CT angiography for identification of patients with functionally significant coronary artery stenosis](https://www.researchgate.net/publication/321304894_Deep_learning_analysis_of_the_myocardium_in_coronary_CT_angiography_for_identification_of_patients_with_functionally_significant_coronary_artery_stenosis) - Majd Zreik, Nikolas Lessmann, Robbert van Hamersvelt, Jelmer Wolterink, Michiel Voskuil, Max A. Viergever, Tim Leiner, Ivana Išgum (2017)
