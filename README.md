@@ -151,7 +151,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ##### Signal optimization
 * [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
 
-#### Atherosclerosis
+#### Artery disease
+##### Atherosclerosis
 * [Early-stage atherosclerosis detection using deep learning over carotid ultrasound images](https://www.sciencedirect.com/science/article/pii/S1568494616304574) - Rosa-María Menchón-Lara, José-Luis Sancho-Gómez, Andrés Bueno-Crespo (2016)
 * [A Convolutional Neural Network for Automatic Characterization of Plaque Composition in Carotid Ultrasound](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5293622/) - Karim Lekadir, Alfiia Galimzianova, Àngels Betriu, Maria del Mar Vila, Laura Igual, Daniel L. Rubin, Elvira Fernández, Petia Radeva, Sandy Napel (2016)
 * [Adversarial Training for Patient-Independent Feature Learning with IVOCT Data for Plaque Classification](https://arxiv.org/abs/1805.06223) - Nils Gessert, Markus Heyder, Sarah Latus, David M. Leistner, Youssef S. Abdelwahed, Matthias Lutz, Alexander Schlaefer (2018)
@@ -159,6 +160,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Advanced atherosclerosis imaging by CT: Radiomics, machine learning and deep learning](https://www.journalofcardiovascularct.com/article/S1934-5925(18)30615-4/fulltext) - Márton Kolossváry, Carlo N. De Cecco, Gudrun Feuchtner, Pál Maurovich-Horvat (2019)
 * [A Machine Learning-Based Method for Intracoronary OCT Segmentation and Vulnerable Coronary Plaque Cap Thickness Quantification](https://www.researchgate.net/publication/322824245_A_Machine_Learning-Based_Method_for_Intracoronary_OCT_Segmentation_and_Vulnerable_Coronary_Plaque_Cap_Thickness_Quantification) - Xiaoya Guo, Dalin Tang, David Molony, Chun Yang, Habib Samady, Jie Zheng, Gary S. Mintz, Akiko Maehara, Liang Wang, Xuan Pei, Zhi-Yong Li, Genshan Ma, Don P. Giddens (2019)
 * [Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk](https://arxiv.org/abs/1809.04663) - Stephen Pfohl, Ben Marafino, Adrien Coulet, Fatima Rodriguez, Latha Palaniappan, Nigam H. Shah (2019)
+
+##### Coronary
+* [Deep learning analysis of the myocardium in coronary CT angiography for identification of patients with functionally significant coronary artery stenosis](https://www.researchgate.net/publication/321304894_Deep_learning_analysis_of_the_myocardium_in_coronary_CT_angiography_for_identification_of_patients_with_functionally_significant_coronary_artery_stenosis) - Majd Zreik, Nikolas Lessmann, Robbert van Hamersvelt, Jelmer Wolterink, Michiel Voskuil, Max A. Viergever, Tim Leiner, Ivana Išgum (2017)
+* [Coronary heart disease diagnosis by artificial neural networks including aortic pulse wave velocity index and clinical parameters](https://journals.lww.com/jhypertension/Abstract/2019/08000/Coronary_heart_disease_diagnosis_by_artificial.19.aspx) - Alexandre Vallée, Alexandre Cinaud, Vincent Blachier, Hélène Lelong, Michel Safar, Jacques Blacher (2019)
 
 #### Congenital disease
 * [Ontology based congenital heart disease diagnosis using neural networks](https://pdfs.semanticscholar.org/c248/1033deed024fd60e54e19b7616cec85e39d2.pdf) - A. Nirmala, Abinaya Sambath Kumar (2015)
@@ -169,9 +174,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep-learning models improve on community-level diagnosis for common congenital heart disease lesions](https://arxiv.org/pdf/1809.06993.pdf) - Rima Arnaout, Lara Curran, Erin Chinn, Yili Zhao, Anita Moon-Grady (2018)
 * [Predicting deterioration of ventricular function in patients with repaired tetralogy of Fallot using machine learning](https://www.ncbi.nlm.nih.gov/pubmed/29538684) - Manar D Samad, Gregory J Wehner, Mohammad R Arbabshirani, Linyuan Jing, Andrew J Powell, Tal Geva, Christopher M Haggerty, Brandon K Fornwalt (2018)
 * [Real‐time cardiovascular MR with spatio‐temporal artifact suppression using deep learning–proof of concept in congenital heart disease](https://onlinelibrary.wiley.com/doi/10.1002/mrm.27480) - Andreas Hauptmann, Simon Arridge, Felix Lucka, Vivek Muthurangu, Jennifer A. Steeden (2018)
-
-#### Coronary disease
-* [Coronary heart disease diagnosis by artificial neural networks including aortic pulse wave velocity index and clinical parameters](https://journals.lww.com/jhypertension/Abstract/2019/08000/Coronary_heart_disease_diagnosis_by_artificial.19.aspx) - Alexandre Vallée, Alexandre Cinaud, Vincent Blachier, Hélène Lelong, Michel Safar, Jacques Blacher (2019)
 
 #### Heart failure
 * [A deep-learning classifier identifies patients with clinical heart failure using whole-slide images of H&E tissue](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5882098/) - Jeffrey J. Nirschl, Andrew Janowczyk, Eliot G. Peyster, Renee Frank, Kenneth B. Margulies, Michael D. Feldman, Anant Madabhushi (2018)
