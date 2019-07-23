@@ -64,7 +64,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Generation
 * [Blood Vessel Geometry Synthesis using Generative Adversarial Networks](https://arxiv.org/abs/1804.04381) - Jelmer M. Wolterink, Tim Leiner, Ivana Isgum (2018)
-* [Electrocardiogram generation with a bidirectional LSTM-CNN generative adversarial network](https://www.nature.com/articles/s41598-019-42516-z)
+* [Electrocardiogram generation with a bidirectional LSTM-CNN generative adversarial network](https://www.nature.com/articles/s41598-019-42516-z) - Fei Zhu, Fei Ye, Yuchen Fu, Quan Liu, Bairong Shen (2019)
 
 ### Tutorials
 * [ECG arrhythmia classification using a 2-D convolutional neural network](https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67) - Ankur Singh (2018)
