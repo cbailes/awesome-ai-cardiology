@@ -1,7 +1,7 @@
 # awesome-ai-cardiology
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to cardiology.
+Comprehensive list of awesome code, datasets, papers, and resources for AI/deep learning/machine learning/neural networks applied to cardiology.
 
 Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
@@ -149,6 +149,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Adversarial Examples for Electrocardiograms](https://evidation.com/research/adversarial-examples-for-ecg/) - X. Han, Y. Hu, L. Foschini, L. Jankelson, R. Ranganath (2019)
 * [Rethinking multiscale cardiac electrophysiology with machine learning and predictive modelling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334203/) - Chris D. Cantwell, Yumnah Mohamied, Konstantinos N. Tzortzis, Stef Garasto, Charles Houston, Rasheda A. Chowdhury, Fu Siong Ng, Anil A. Bharath, Nicholas S. Peters (2019)
 * [A new approach for arrhythmia classification using deep coded features and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0169260718314329) - Ozal Yildirim, Ulas Baran Baloglua, Ru-San Tan, Edward J.Ciaccio, U. Rajendra Acharya (2019)
+* [Heartbeat Anomaly Detection using Adversarial Oversampling](https://arxiv.org/abs/1901.09972) - Jefferson L. P. Lima, David Macêdo, Cleber Zanchettin (2019)
 * [Computer-Aided Arrhythmia Diagnosis with Bio-signal Processing: A Survey of Trends and Techniques](https://www.researchgate.net/publication/331586318_Computer-Aided_Arrhythmia_Diagnosis_with_Bio-signal_Processing_A_Survey_of_Trends_and_Techniques) - Sai Manoj, Axel Jantsch, Axel Jantsch, Muhammad Shafique, Muhammad Shafique (2019)
 
 ##### Signal optimization
