@@ -225,6 +225,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Real‐time cardiovascular MR with spatio‐temporal artifact suppression using deep learning–proof of concept in congenital heart disease](https://onlinelibrary.wiley.com/doi/10.1002/mrm.27480) - Andreas Hauptmann, Simon Arridge, Felix Lucka, Vivek Muthurangu, Jennifer A. Steeden (2018)
 
 #### Heart failure
+* [A Cognitive Machine Learning Algorithm for Cardiac Imaging: A Pilot Study for Differentiating Constrictive Pericarditis from Restrictive Cardiomyopathy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5321667/) - Partho P. Sengupta, Yen-Min Huang, Manish Bansal, Ali Ashrafi, Matt Fisher, Khader Shameer, Walt Gall, Joel T Dudley (2017)
 * [A deep-learning classifier identifies patients with clinical heart failure using whole-slide images of H&E tissue](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5882098/) - Jeffrey J. Nirschl, Andrew Janowczyk, Eliot G. Peyster, Renee Frank, Kenneth B. Margulies, Michael D. Feldman, Anant Madabhushi (2018)
 
 #### Myocardial infarction
