@@ -76,6 +76,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [ECG arrhythmia classification using a 2-D convolutional neural network](https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67) - Ankur Singh (2018)
 
 ## Challenges
+* [Classifying Heart Sounds Challenge](http://www.peterjbentley.com/heartchallenge/) (2011-2012)
 * [Classification of Normal/Abnormal Heart Sound Recordings: the PhysioNet/Computing in Cardiology Challenge](https://physionet.org/challenge/2016/) (2016)
 
 ## Papers
