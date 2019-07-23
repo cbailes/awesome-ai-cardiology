@@ -265,7 +265,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Acute coronary syndrome
 * [A Regularized Deep Learning Approach for Clinical Risk Prediction of Acute Coronary Syndrome Using Electronic Health Records](https://ieeexplore.ieee.org/document/7990180) - Zhengxing Huang, Wei Dong, Huilong Duan, Jiquan Liu (2017)
-* [Machine Learning Improves Risk Stratification After Acute Coronary Syndrome](https://www.nature.com/articles/s41598-017-12951-x) - Paul D. Myers, Benjamin M. Scirica, Collin M. Stultz (2017)
 
 #### Cardiopulmonary arrest
 * [An Algorithm Based on Deep Learning for Predicting In‐Hospital Cardiac Arrest](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064911/) - Joon‐myoung Kwon, Youngnam Lee, Yeha Lee, Seungwoo Lee, Jinsik Park (2018)
@@ -302,6 +301,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Machine Learning Prediction of Response to Cardiac Resynchronization Therapy](https://www.ahajournals.org/doi/10.1161/CIRCEP.119.007316) - Albert K. Feeny, John Rickard, Divyang Patel, Saleem Toro, Kevin M. Trulock, Carolyn J. Park, Michael A. LaBarbera, Niraj Varma, Mark J. Niebauer, Sunil Sinha, Eiran Z. Gorodeski, Richard A. Grimm, Xinge Ji, John Barnard, Anant Madabhushi, David D. Spragg, Mina K. Chung (2019)
 
 #### Acute coronary syndrome
+* [Machine Learning Improves Risk Stratification After Acute Coronary Syndrome](https://www.nature.com/articles/s41598-017-12951-x) - Paul D. Myers, Benjamin M. Scirica, Collin M. Stultz (2017)
 * [Predicting Long-Term Mortality after Acute Coronary Syndrome Using Machine Learning Techniques and Hematological Markers](https://www.hindawi.com/journals/dm/2019/9056402/) - Konrad Pieszko, Jarosław Hiczkiewicz, Paweł Budzianowski, Jan Budzianowski, Janusz Rzeźniczak, Karolina Pieszko, Paweł Burchardt (2019)
 
 #### Artery disease
