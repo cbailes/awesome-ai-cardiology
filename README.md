@@ -96,6 +96,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Arrhythmias
 * [A Neural Network System for Detection of Atrial Fibrillation in Ambulatory Electrocardiograms](https://www.researchgate.net/publication/15210772_A_Neural_Network_System_for_Detection_of_Atrial_Fibrillation_in_Ambulatory_Electrocardiograms) - David Cubanski, David Cyganski, Elliott M. Antman, Charles L. Feldman (1994)
+* [Cardiac arrhythmia classification using neural networks](https://www.ncbi.nlm.nih.gov/pubmed/11258582) - H. Al-Nashash (2000)
 * [Classification of arrhythmia using machine learning techniques](https://pdfs.semanticscholar.org/b37e/d3ee8dab4e8609223eb9155ae3a8cdf612ce.pdf) - Thara Soman, Patrick O. Bobbie (2004)
 * [A Real-Time Cardiac Arrhythmia Classification System with Wearable Sensor Networks](https://pdfs.semanticscholar.org/fe24/c4b5a37190ba6cb3ed4db6ab973262efe186.pdf) - Sheng Hu, Hongxing Wei, Youdong Chen, Jindong Tan (2012)
 * [Artificial Neural Network Models based Cardiac Arrhythmia Disease Diagnosis from ECG Signal Data](https://pdfs.semanticscholar.org/d0d3/19f042d48abd7533f5f9d95aeda8da711a38.pdf) - Shivajirao M. Jadhav, Sanjay L. Nalbalwar, Ashok A. Ghatol (2012)
