@@ -286,6 +286,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [ECG-based personal recognition using a convolutional neural network](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302004) - Yue Zhang, Zhibo Xiao, Zhenhua Guo, Ziliang Wang (2019)
 * [A Study on User Recognition Using 2D ECG Image Based on Ensemble Networks for Intelligent Vehicles](https://www.hindawi.com/journals/wcmc/2019/6458719/) - Min-Gu Kim, Hoon Ko, Sung Bum Pan (2019)
 
+##### Privacy
+* [Privacy-Preserving Generative Deep Neural Networks Support Clinical Data Sharing](https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.118.005122) - Brett K. Beaulieu-Jones , Zhiwei Steven Wu , Chris Williams , Ran Lee , Sanjeev P. Bhavnani , James Brian Byrd , Casey S. Greene (2019)
+
 ## Clinical trials
 * [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG)](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
 * [Artificial Intelligence With Deep Learning and Genes on Cardiovascular Disease](https://clinicaltrials.gov/ct2/show/NCT03877614) - National Cheng-Kung University Hospital 
