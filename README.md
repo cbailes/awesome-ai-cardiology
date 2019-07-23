@@ -200,6 +200,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ##### Coronary
 * [Deep learning analysis of the myocardium in coronary CT angiography for identification of patients with functionally significant coronary artery stenosis](https://www.researchgate.net/publication/321304894_Deep_learning_analysis_of_the_myocardium_in_coronary_CT_angiography_for_identification_of_patients_with_functionally_significant_coronary_artery_stenosis) - Majd Zreik, Nikolas Lessmann, Robbert van Hamersvelt, Jelmer Wolterink, Michiel Voskuil, Max A. Viergever, Tim Leiner, Ivana Išgum (2017)
+* [Deep Neural Networks for ECG-free Cardiac Phase and End-Diastolic Frame Detection on Coronary Angiographies](https://arxiv.org/abs/1811.02797) - Costin Ciusdel, Alexandru Turcea, Andrei Puiu, Lucian Itu, Lucian Calmac, Emma Weiss, Cornelia Margineanu, Elisabeta Badila, Martin Berger, Thomas Redel, Tiziano Passerini, Mehmet Gulsun, Puneet Sharma (2018)
 * [Coronary heart disease diagnosis by artificial neural networks including aortic pulse wave velocity index and clinical parameters](https://journals.lww.com/jhypertension/Abstract/2019/08000/Coronary_heart_disease_diagnosis_by_artificial.19.aspx) - Alexandre Vallée, Alexandre Cinaud, Vincent Blachier, Hélène Lelong, Michel Safar, Jacques Blacher (2019)
 
 ##### Peripheral
