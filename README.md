@@ -78,6 +78,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Challenges
 * [Classifying Heart Sounds Challenge](http://www.peterjbentley.com/heartchallenge/) (2011-2012)
 * [Classification of Normal/Abnormal Heart Sound Recordings: the PhysioNet/Computing in Cardiology Challenge](https://physionet.org/challenge/2016/) (2016)
+* [AF Classification from a short single lead ECG recording: the PhysioNet/Computing in Cardiology Challenge](https://physionet.org/challenge/2017/) (2017)
 
 ## Papers
 * [Artificial Intelligence in Precision Cardiovascular Medicine](https://www.sciencedirect.com/science/article/pii/S0735109717368456) - Chayakrit Krittanawong, HongJu Zhang, Zhen Wang, Mehmet Aydar, Takeshi Kitai (2017)
