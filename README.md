@@ -37,6 +37,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Surgery](#surgery)
     - [Revascularization](#revascularization)
   + [Prognostics](#prognostics)
+    - [Acute coronary syndrome](#acute-coronary-syndrome-1)
+    - [Artery disease](#artery-disease-1)
+    - [Cardiac amyloidosis](#cardiac-amyloidosis)
+    - [Heart failure](#heart-failure-1)
+    - [Surgery](#surgery-1)    
   + [Identification](#identification)
     - [Devices](#devices)
     - [Individuals](#individuals)
@@ -290,16 +295,31 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Artificial intelligence to predict needs for urgent revascularization from 12-leads electrocardiography in emergency patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210103) - Shinichi Goto, Mai Kimura, Yoshinori Katsumata, Shinya Goto, Takashi Kamatani, Genki Ichihara, Seien Ko, Junichi Sasaki, Keiichi Fukuda, Motoaki Sano (2019)
 
 ### Prognostics
-* [Use of a neural network as a predictive instrument for length of stay in the intensive care unit following cardiac surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2248140/) - J. V. Tu, M. R. Guerriere (1992)
-* [Use of Machine Learning to Accurately Predict Adverse Events in Patients With Peripheral Artery Disease Using Electronic Health Record Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079774/) - Elsie Gyang Ross, Nigam Shah, Ronald Dalman, Kevin Nead, John Cooke, Nicholas J. Leeper (2017)
 * [Machine learning improves the long-term prognostic value of sequential cardiac PET/CT](https://academic.oup.com/eurheartj/article-abstract/39/suppl_1/ehy563.3003/5080092) - L E Juarez-Orozco T Maaniitty O Martinez-Manzanera A Saraste J Knuuti (2018)
 * [A deep neural network to enhance prediction of 1-year mortality using echocardiographic videos of the heart](https://arxiv.org/abs/1811.10553) - Alvaro Ulloa, Linyuan Jing, Christopher W Good, David P vanMaanen, Sushravya Raghunath, Jonathan D Suever, Christopher D Nevius, Gregory J Wehner, Dustin Hartzel, Joseph B Leader, Amro Alsaid, Aalpen A Patel, H Lester Kirchner, Marios S Pattichis, Christopher M Haggerty, Brandon K Fornwalt (2018)
-* [Artificial Intelligence Improves Accuracy of Heart Failure Readmission Risk Predictions](https://www.healthcatalyst.com/success_stories/machine-learning-in-heart-failure-multicare) - HealthCatalyst, Pulse Heart Institute, MultiCare (2018)
-* [Deep Learning Approach for Predicting 30 Day Readmissions after Coronary Artery Bypass Graft Surgery](https://arxiv.org/abs/1812.00596) - Ramesh B. Manyam, Yanqing Zhang, William B. Keeling, Jose Binongo, Michael Kayatta, Seth Carter (2018)
-* [Machine learning algorithms estimating prognosis and guiding therapy in adult congenital heart disease: data from a single tertiary centre including 10,019 patients](https://www.ncbi.nlm.nih.gov/pubmed/30689812) - Gerhard-Paul Diller, Aleksander Kempny, Sonya V Babu-Narayan, Marthe Henrichs, Margarita Brida, Anselm Uebing, Astrid E Lammers, Helmut Baumgartner, Wei Li, Stephen J Wort, Konstantinos Dimopoulos, Michael A Gatzoulis (2019)
 * [Prediction of cardiovascular outcomes with machine learning techniques: application to the Cardiovascular Outcomes in Renal Atherosclerotic Lesions (CORAL) study](https://www.researchgate.net/publication/331909159_Prediction_of_cardiovascular_outcomes_with_machine_learning_techniques_application_to_the_Cardiovascular_Outcomes_in_Renal_Atherosclerotic_Lesions_CORAL_study) - Tian Chen, Pamela Brewster, Katherine R Tuttle, Lance D Dworkin, William Henrich, Barbara A Greco, Michael Steffes, Sheldon Tobe, Kenneth Jamerson, Karol Pencina, Joseph M Massaro, Ralph B D’Agostino, Sr, Donald E Cutlip, Timothy P Murphy, Christopher J Cooper, Joseph I Shapiro (2019)
 * [Machine Learning Prediction of Response to Cardiac Resynchronization Therapy](https://www.ahajournals.org/doi/10.1161/CIRCEP.119.007316) - Albert K. Feeny, John Rickard, Divyang Patel, Saleem Toro, Kevin M. Trulock, Carolyn J. Park, Michael A. LaBarbera, Niraj Varma, Mark J. Niebauer, Sunil Sinha, Eiran Z. Gorodeski, Richard A. Grimm, Xinge Ji, John Barnard, Anant Madabhushi, David D. Spragg, Mina K. Chung (2019)
+
+#### Acute coronary syndrome
 * [Predicting Long-Term Mortality after Acute Coronary Syndrome Using Machine Learning Techniques and Hematological Markers](https://www.hindawi.com/journals/dm/2019/9056402/) - Konrad Pieszko, Jarosław Hiczkiewicz, Paweł Budzianowski, Jan Budzianowski, Janusz Rzeźniczak, Karolina Pieszko, Paweł Burchardt (2019)
+
+#### Artery disease
+* [Use of Machine Learning to Accurately Predict Adverse Events in Patients With Peripheral Artery Disease Using Electronic Health Record Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079774/) - Elsie Gyang Ross, Nigam Shah, Ronald Dalman, Kevin Nead, John Cooke, Nicholas J. Leeper (2017)
+
+#### Cardiac amyloidosis
+* [Machine Learning Predicts Mortality Better Than Biomarker Staging in Wild-type Cardiac Amyloidosis](https://www.ahajournals.org/doi/abs/10.1161/circ.136.suppl_1.19035) - Avinainder Singh, Hallie I Geller, Rodney H Falk (2018)
+
+#### Congenital disease
+* [Machine learning algorithms estimating prognosis and guiding therapy in adult congenital heart disease: data from a single tertiary centre including 10,019 patients](https://www.ncbi.nlm.nih.gov/pubmed/30689812) - Gerhard-Paul Diller, Aleksander Kempny, Sonya V Babu-Narayan, Marthe Henrichs, Margarita Brida, Anselm Uebing, Astrid E Lammers, Helmut Baumgartner, Wei Li, Stephen J Wort, Konstantinos Dimopoulos, Michael A Gatzoulis (2019)
+
+#### Heart failure
+* [Artificial Intelligence Improves Accuracy of Heart Failure Readmission Risk Predictions](https://www.healthcatalyst.com/success_stories/machine-learning-in-heart-failure-multicare) - HealthCatalyst, Pulse Heart Institute, MultiCare (2018)
+
+#### Surgery
+* [Use of a neural network as a predictive instrument for length of stay in the intensive care unit following cardiac surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2248140/) - J. V. Tu, M. R. Guerriere (1992)
+
+##### Coronary artery bypass
+* [Deep Learning Approach for Predicting 30 Day Readmissions after Coronary Artery Bypass Graft Surgery](https://arxiv.org/abs/1812.00596) - Ramesh B. Manyam, Yanqing Zhang, William B. Keeling, Jose Binongo, Michael Kayatta, Seth Carter (2018)
 
 ### Identification
 #### Devices
