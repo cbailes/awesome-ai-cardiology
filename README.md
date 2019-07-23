@@ -45,6 +45,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   + [Identification](#identification)
     - [Devices](#devices)
     - [Individuals](#individuals)
+  + [Treatment](#treatment)
+    - [Acute coronary syndrome](#acute-coronary-syndrome-2)
 * [Clinical trials](#clinical-trials)
 * [Teams](#teams)
 * [News, meta resources, and other](#news--meta-resources--and-other)
@@ -337,6 +339,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ##### Privacy
 * [Privacy-Preserving Generative Deep Neural Networks Support Clinical Data Sharing](https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.118.005122) - Brett K. Beaulieu-Jones , Zhiwei Steven Wu , Chris Williams , Ran Lee , Sanjeev P. Bhavnani , James Brian Byrd , Casey S. Greene (2019)
+
+### Treatment
+#### Acute coronary syndrome
+* [Utilizing dynamic treatment information for MACE prediction of acute coronary syndrome](https://link.springer.com/article/10.1186/s12911-018-0730-7) - Huilong Duan, Zhoujian Sun, Wei Dong, Zhengxing Huang (2019)
 
 ## Clinical trials
 * [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG)](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
