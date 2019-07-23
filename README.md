@@ -264,6 +264,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep learning in quantitative PET myocardial perfusion imaging to predict adverse cardiovascular events](https://academic.oup.com/ehjcimaging/article/20/Supplement_3/jez145.005/5512889) - L E Juarez-Orozco O Martinez-Manzanera F M Van Der Zant R J J Knol J Knuuti (2019)
 
 #### Acute coronary syndrome
+* [A Regularized Deep Learning Approach for Clinical Risk Prediction of Acute Coronary Syndrome Using Electronic Health Records](https://ieeexplore.ieee.org/document/7990180) - Zhengxing Huang, Wei Dong, Huilong Duan, Jiquan Liu (2017)
 * [Machine Learning Improves Risk Stratification After Acute Coronary Syndrome](https://www.nature.com/articles/s41598-017-12951-x) - Paul D. Myers, Benjamin M. Scirica, Collin M. Stultz (2017)
 
 #### Cardiopulmonary arrest
