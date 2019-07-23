@@ -10,7 +10,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Index
 * [Code repositories](#code-repositories)
   + [Datasets](#datasets)
-    - [Simulation](#simulation)
+    - [Generation](#generation)
   + [Tutorials](#tutorials)
 * [Papers](#papers)
   + [Diagnostics](#diagnostics)
@@ -62,7 +62,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Janosi-Steinbrunn-Pfisterer-Detrano Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) @ UC Irvine Machine Learning Repository
 * [DeepQ Arrhythmia Database: A Large-Scale Dataset for Arrhythmia Detector Evaluation](https://storage.googleapis.com/research_htc_com_assets/publications/ecg-mmh17.pdf) - Meng-Hsi Wu, Edward Y. Chang (2017)
 
-#### Simulation
+#### Generation
 * [Blood Vessel Geometry Synthesis using Generative Adversarial Networks](https://arxiv.org/abs/1804.04381) - Jelmer M. Wolterink, Tim Leiner, Ivana Isgum (2018)
 * [Electrocardiogram generation with a bidirectional LSTM-CNN generative adversarial network](https://www.nature.com/articles/s41598-019-42516-z)
 
