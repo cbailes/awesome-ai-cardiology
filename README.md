@@ -43,6 +43,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [News, meta resources, and other](#news--meta-resources--and-other)
   
 ## Code repositories
+* [ahaque/arrhythmia-nn](https://github.com/ahaque/arrhythmia-nn) - [[Paper](http://cs229.stanford.edu/proj2014/Albert%20Haque,%20Cardiac%20Dysrhythmia%20Detection%20with%20GPU-Accelerated%20Neural%20Networks.pdf)] - Neural network for detecting cardiac dysrhythmia
 * [awni/ecg](https://github.com/awni/ecg) - Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
 * [limagbz/arrhythmia-alarms](https://github.com/limagbz/arrhythmia-alarms) - Detecting false arrhythmia alarms in the ICU using Convolutional Neural Networks
 * [akshaynathr/deep_heart_hackatho](https://github.com/akshaynathr/deep_heart_hackatho) - Anomaly detection system for heart diseases from ECG using machine learning
