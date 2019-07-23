@@ -10,6 +10,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Index
 * [Code repositories](#code-repositories)
   + [Datasets](#datasets)
+    - [Simulation](#simulation)
   + [Tutorials](#tutorials)
 * [Papers](#papers)
   + [Diagnostics](#diagnostics)
@@ -61,6 +62,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Janosi-Steinbrunn-Pfisterer-Detrano Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) @ UC Irvine Machine Learning Repository
 * [DeepQ Arrhythmia Database: A Large-Scale Dataset for Arrhythmia Detector Evaluation](https://storage.googleapis.com/research_htc_com_assets/publications/ecg-mmh17.pdf) - Meng-Hsi Wu, Edward Y. Chang (2017)
 
+#### Simulation
+* [Blood Vessel Geometry Synthesis using Generative Adversarial Networks](https://arxiv.org/abs/1804.04381) - Jelmer M. Wolterink, Tim Leiner, Ivana Isgum (2018)
+* [Electrocardiogram generation with a bidirectional LSTM-CNN generative adversarial network](https://www.nature.com/articles/s41598-019-42516-z)
+
 ### Tutorials
 * [ECG arrhythmia classification using a 2-D convolutional neural network](https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67) - Ankur Singh (2018)
 
@@ -68,7 +73,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Artificial Intelligence in Precision Cardiovascular Medicine](https://www.sciencedirect.com/science/article/pii/S0735109717368456) - Chayakrit Krittanawong, HongJu Zhang, Zhen Wang, Mehmet Aydar, Takeshi Kitai (2017)
 * [Deep learning for cardiac computer-aided diagnosis: benefits, issues & solutions](http://mhealth.amegroups.com/article/view/17021/17339) - Brian C. S. Loh, Patrick H. H. Then (2017)
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
-* [Blood Vessel Geometry Synthesis using Generative Adversarial Networks](https://arxiv.org/abs/1804.04381) - Jelmer M. Wolterink, Tim Leiner, Ivana Isgum (2018)
 * [Machine learning in cardiovascular medicine: are we there yet?](https://www.ncbi.nlm.nih.gov/pubmed/29352006) - Khader Shameer, Kipp W Johnson, Benjamin S Glicksberg, Joel T Dudley, Partho P Sengupta (2018)
 * [Deep Learning in Cardiology](https://arxiv.org/abs/1902.11122) - Paschalis Bizopoulos, Dimitrios Koutsouris (2019)
 * [Deep learning for cardiovascular medicine: a practical primer](https://academic.oup.com/eurheartj/article-abstract/40/25/2058/5366208) - Chayakrit Krittanawong, Kipp W Johnson, Robert S Rosenson, Zhen Wang, Mehmet Aydar, Usman Baber, James K Min, W H Wilson Tang, Jonathan L Halperin, Sanjiv M Narayan  (2019)
