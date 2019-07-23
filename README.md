@@ -15,6 +15,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Papers](#papers)
   + [Diagnostics](#diagnostics)
     - [Arrhythmias](#arrhythmias)
+      * [Realtime analysis](#realtime-analysis)
       * [Signal optimization](#signal-optimization)
     - [Artery disease](#artery-disease)
       * [Atherosclerosis](#atherosclerosis)
@@ -99,11 +100,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Cardiac arrhythmia classification using neural networks](https://www.ncbi.nlm.nih.gov/pubmed/11258582) - H. Al-Nashash (2000)
 * [Classification of arrhythmia using machine learning techniques](https://pdfs.semanticscholar.org/b37e/d3ee8dab4e8609223eb9155ae3a8cdf612ce.pdf) - Thara Soman, Patrick O. Bobbie (2004)
 * [Neural network based arrhythmia classification using Heart Rate Variability signal](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.9813&rep=rep1&type=pdf) - Babak Mohammadzadeh Asl, Seyed Kamaledin Setarehdan (2006)
-* [A Real-Time Cardiac Arrhythmia Classification System with Wearable Sensor Networks](https://pdfs.semanticscholar.org/fe24/c4b5a37190ba6cb3ed4db6ab973262efe186.pdf) - Sheng Hu, Hongxing Wei, Youdong Chen, Jindong Tan (2012)
 * [Artificial Neural Network Models based Cardiac Arrhythmia Disease Diagnosis from ECG Signal Data](https://pdfs.semanticscholar.org/d0d3/19f042d48abd7533f5f9d95aeda8da711a38.pdf) - Shivajirao M. Jadhav, Sanjay L. Nalbalwar, Ashok A. Ghatol (2012)
 * [Automated detection & classification of arrhythmias](http://cs229.stanford.edu/proj2014/Richard%20Tang,%20Saurabh%20Vyas,%20Automated%20Detection%20and%20Classification%20of%20Cardiac%20Arrhythmias.pdf) - Richard Tang, Saurabh Vyas (2014)
 * [Cardiac Dysrhythmia Detection with GPU-Accelerated Neural Networks](http://cs229.stanford.edu/proj2014/Albert%20Haque,%20Cardiac%20Dysrhythmia%20Detection%20with%20GPU-Accelerated%20Neural%20Networks.pdf) - [[Code](https://github.com/ahaque/arrhythmia-nn)] - Albert Haque (2014)
-* [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) - Serkan Kiranyaz, Turker Ince, Moncef Gabbouj (2015)
 * [Deep learning approach for active classification of electrocardiogram signals](https://www.sciencedirect.com/science/article/pii/S0020025516300184) - M. M. Al Rahhal, Yakoub Bazi, Haikel AlHichria, NaifAlajlan, Farid Melgani, R. R.Yager (2016)
 * [Artificial intelligence classification methods of atrial fibrillation with implementation technology](https://www.researchgate.net/publication/311448170_Artificial_intelligence_classification_methods_of_atrial_fibrillation_with_implementation_technology) - Huey WOAN Lim, Yuan Wen Hau, Chiao Wen Lim, Mohd Afzan Othman (2016)
 * [Deep learning algorithm for arrhythmia detection](https://ieeexplore.ieee.org/abstract/document/8228452) - Hilmy Assodiky, Iwan Syarif, Tessy Badriyah (2017)
@@ -163,6 +162,12 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [A new approach for arrhythmia classification using deep coded features and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0169260718314329) - Ozal Yildirim, Ulas Baran Baloglua, Ru-San Tan, Edward J.Ciaccio, U. Rajendra Acharya (2019)
 * [Heartbeat Anomaly Detection using Adversarial Oversampling](https://arxiv.org/abs/1901.09972) - Jefferson L. P. Lima, David Macêdo, Cleber Zanchettin (2019)
 * [Computer-Aided Arrhythmia Diagnosis with Bio-signal Processing: A Survey of Trends and Techniques](https://www.researchgate.net/publication/331586318_Computer-Aided_Arrhythmia_Diagnosis_with_Bio-signal_Processing_A_Survey_of_Trends_and_Techniques) - Sai Manoj, Axel Jantsch, Axel Jantsch, Muhammad Shafique, Muhammad Shafique (2019)
+
+##### Realtime analysis
+* [A Real-Time Cardiac Arrhythmia Classification System with Wearable Sensor Networks](https://pdfs.semanticscholar.org/fe24/c4b5a37190ba6cb3ed4db6ab973262efe186.pdf) - Sheng Hu, Hongxing Wei, Youdong Chen, Jindong Tan (2012)
+* [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) - Serkan Kiranyaz, Turker Ince, Moncef Gabbouj (2015)
+* [Real-Time Detection of Atrial Fibrillation from Short Time Single Lead ECG Traces Using Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-68385-0_18) - V. G. Sujadevi, K. P. Soman, R. Vinayakumar (2017)
+* [A deep learning approach for real-time detection of atrial fibrillation](https://www.sciencedirect.com/science/article/pii/S0957417418305190) - Rasmus S.AndersenAbdolrahmanPeimankarSadasivanPuthusserypady (2018)
 
 ##### Signal optimization
 * [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
