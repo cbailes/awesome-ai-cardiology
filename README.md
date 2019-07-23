@@ -9,6 +9,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Index
 * [Code repositories](#code-repositories)
+  + [Challenges](#challenges)
   + [Datasets](#datasets)
     - [Generation](#generation)
   + [Tutorials](#tutorials)
@@ -58,11 +59,15 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [nerdySingh/LifeTech](https://github.com/nerdySingh/LifeTech) - life.tech, a comprehensive system that can detect cardiac abnormalities using machine learning and low cost hardware with emergency SMS notifications
 * [sachanganesh/heartbeat-classification](https://github.com/sachanganesh/heartbeat-classification) - Deep Stethoscope: CNN Heartbeat Classifier
 
+### Challenges
+* [Classification of Normal/Abnormal Heart Sound Recordings: the PhysioNet/Computing in Cardiology Challenge](https://physionet.org/challenge/2016/) (2016)
+
 ### Datasets
 * [Kachuee-Fazeli-Sarrafzadeh ECG Heartbeat Categorization Dataset](https://www.kaggle.com/shayanfazeli/heartbeat) @ Kaggle
 * [MIT-BIH Arrhythmia Database](https://www.kaggle.com/taejoongyoon/mitbit-arrhythmia-database) @ Kaggle
 * [MIT-BIH Atrial Fibrillation Database](https://physionet.org/physiobank/database/afdb/) 
-* [PhysioBank Database Collection](https://physionet.org/physiobank/database/)
+* [CinC Challenge 2016: Heart Sound Training Sets](https://physionet.org/physiobank/database/challenge/2016/)
+* [PhysioNet Database Collection](https://physionet.org/physiobank/database/)
 * [Janosi-Steinbrunn-Pfisterer-Detrano Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) @ UC Irvine Machine Learning Repository
 * [DeepQ Arrhythmia Database: A Large-Scale Dataset for Arrhythmia Detector Evaluation](https://storage.googleapis.com/research_htc_com_assets/publications/ecg-mmh17.pdf) - Meng-Hsi Wu, Edward Y. Chang (2017)
 
