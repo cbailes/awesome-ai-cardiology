@@ -165,6 +165,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ##### Signal optimization
 * [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
+* [PGANs: Personalized Generative Adversarial Networks for ECG Synthesis to Improve Patient-Specific Deep ECG Classification](https://web.archive.org/web/20190723215848/http://www.kiraradinsky.com/files/pgans-personalized-generative.pdf) - Tomer Golany, Kira Radinsky (2019)
 
 #### Artery disease
 ##### Atherosclerosis
