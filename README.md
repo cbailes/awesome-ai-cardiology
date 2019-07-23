@@ -302,6 +302,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Acute coronary syndrome
 * [Machine Learning Improves Risk Stratification After Acute Coronary Syndrome](https://www.nature.com/articles/s41598-017-12951-x) - Paul D. Myers, Benjamin M. Scirica, Collin M. Stultz (2017)
+* [Extensive phenotype data and machine learning in prediction of mortality in acute coronary syndrome – the MADDEC study](https://tandfonline.com/doi/abs/10.1080/07853890.2019.1596302?af=R&journalCode=iann20) - Jussi A. Hernesniemi, Shadi Mahdiani, Juho A. Tynkkynen, Leo-Pekka Lyytikäinen, Pashupati P. Mishra, Terho Lehtimäki, Markku Eskola, Kjell Nikus, Kari Antila, Niku Oksala (2019)
 * [Predicting Long-Term Mortality after Acute Coronary Syndrome Using Machine Learning Techniques and Hematological Markers](https://www.hindawi.com/journals/dm/2019/9056402/) - Konrad Pieszko, Jarosław Hiczkiewicz, Paweł Budzianowski, Jan Budzianowski, Janusz Rzeźniczak, Karolina Pieszko, Paweł Burchardt (2019)
 
 #### Artery disease
