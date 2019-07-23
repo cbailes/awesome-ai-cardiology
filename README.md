@@ -9,10 +9,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Index
 * [Code repositories](#code-repositories)
-  + [Challenges](#challenges)
   + [Datasets](#datasets)
     - [Generation](#generation)
   + [Tutorials](#tutorials)
+* [Challenges](#challenges)
 * [Papers](#papers)
   + [Diagnostics](#diagnostics)
     - [Arrhythmias](#arrhythmias)
@@ -59,9 +59,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [nerdySingh/LifeTech](https://github.com/nerdySingh/LifeTech) - life.tech, a comprehensive system that can detect cardiac abnormalities using machine learning and low cost hardware with emergency SMS notifications
 * [sachanganesh/heartbeat-classification](https://github.com/sachanganesh/heartbeat-classification) - Deep Stethoscope: CNN Heartbeat Classifier
 
-### Challenges
-* [Classification of Normal/Abnormal Heart Sound Recordings: the PhysioNet/Computing in Cardiology Challenge](https://physionet.org/challenge/2016/) (2016)
-
 ### Datasets
 * [Kachuee-Fazeli-Sarrafzadeh ECG Heartbeat Categorization Dataset](https://www.kaggle.com/shayanfazeli/heartbeat) @ Kaggle
 * [MIT-BIH Arrhythmia Database](https://www.kaggle.com/taejoongyoon/mitbit-arrhythmia-database) @ Kaggle
@@ -77,6 +74,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ### Tutorials
 * [ECG arrhythmia classification using a 2-D convolutional neural network](https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67) - Ankur Singh (2018)
+
+## Challenges
+* [Classification of Normal/Abnormal Heart Sound Recordings: the PhysioNet/Computing in Cardiology Challenge](https://physionet.org/challenge/2016/) (2016)
 
 ## Papers
 * [Artificial Intelligence in Precision Cardiovascular Medicine](https://www.sciencedirect.com/science/article/pii/S0735109717368456) - Chayakrit Krittanawong, HongJu Zhang, Zhen Wang, Mehmet Aydar, Takeshi Kitai (2017)
