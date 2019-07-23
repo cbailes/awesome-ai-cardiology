@@ -26,9 +26,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Congenital disease](#congenital-disease)
     - [Heart failure](#heart-failure)
     - [Myocardial infarction](#myocardial-infarction)
-  + [Pharmacology](#pharmacology)
-    - [Efficacy](#efficacy)
-    - [Drug delivery](#drug-delivery)
   + [Prediction](#prediction)
     - [Acute coronary syndrome](#acute-coronary-syndrome)
     - [Cardiopulmonary arrest](#cardiopulmonary-arrest)
@@ -47,6 +44,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Individuals](#individuals)
   + [Treatment](#treatment)
     - [Acute coronary syndrome](#acute-coronary-syndrome-2)
+    - [Pharmacology](#pharmacology)
+      * [Efficacy](#efficacy)
+      * [Drug delivery](#drug-delivery)
 * [Clinical trials](#clinical-trials)
 * [Teams](#teams)
 * [News, meta resources, and other](#news--meta-resources--and-other)
@@ -249,15 +249,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep Learning for Diagnosis of Chronic Myocardial Infarction on Nonenhanced Cardiac Cine MRI](https://pubs.rsna.org/doi/10.1148/radiol.2019182304) - Nan Zhang, Guang Yang, Zhifan Gao, Chenchu Xu, Yanping Zhang, Rui Shi, Jennifer Keegan, Lei Xu , Heye Zhang, Zhanming Fan, David Firmin (2019)
 * [Classification of Myocardial Infarction with Multi-Lead ECG Signals and Deep CNN](https://www.researchgate.net/publication/331035341_Classification_of_Myocardial_Infarction_with_Multi-Lead_ECG_Signals_and_Deep_CNN) - Ulas Baran Baloglu, Muhammed Talo, Özal yıldırım, Ru San Tan, U Rajendra Acharya (2019)
 
-### Pharmacology
-
-#### Efficacy
-* [Towards Identifying of Effective Personalized Antihypertensive Treatment Rules from Electronic Health Records Data Using Classification Methods: Initial Model](https://www.sciencedirect.com/science/article/pii/S1877050917323128?via%3Dihub) - Anna Semakova, Nadezhda Zvartau, Klavdiya Bochenina, Aleksandra Konradi (2017)
-* [Machine learning of big data in gaining insight into successful treatment of hypertension](https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1002/prp2.396) - Gideon Koren, Galia Nordon, Kira Radinsky, Varda Shalev (2018)
-
-#### Drug delivery
-* [Artificial Neural Network Modeling of Sustained Antihypertensive Drug Delivery using Polyelectrolyte Complex based on Carboxymethyl-kappa-carrageenan and Chitosan as Prospective Carriers](https://ieeexplore.ieee.org/document/8651985) - Sonia Lefnaoui, Samia Rebouh, Mounir Bouhedda, Madiha M. Yahoum, Salah Hanini (2018)
-
 ### Prediction
 * [Noninvasive diagnosis of coronary artery disease using a neural network algorithm](https://www.ncbi.nlm.nih.gov/pubmed/1515514) - Metin Akay (1992)
 * [Machine Learning Data Imputation and Classification in a Multicohort Hypertension Clinical Study](https://journals.sagepub.com/doi/full/10.4137/BBI.S29473) - William Seffens, Chad Evans, Taylor Minority Health-Grid Network And Herman (2016)
@@ -344,6 +335,14 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ### Treatment
 #### Acute coronary syndrome
 * [Utilizing dynamic treatment information for MACE prediction of acute coronary syndrome](https://link.springer.com/article/10.1186/s12911-018-0730-7) - Huilong Duan, Zhoujian Sun, Wei Dong, Zhengxing Huang (2019)
+
+#### Pharmacology
+##### Efficacy
+* [Towards Identifying of Effective Personalized Antihypertensive Treatment Rules from Electronic Health Records Data Using Classification Methods: Initial Model](https://www.sciencedirect.com/science/article/pii/S1877050917323128?via%3Dihub) - Anna Semakova, Nadezhda Zvartau, Klavdiya Bochenina, Aleksandra Konradi (2017)
+* [Machine learning of big data in gaining insight into successful treatment of hypertension](https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1002/prp2.396) - Gideon Koren, Galia Nordon, Kira Radinsky, Varda Shalev (2018)
+
+##### Drug delivery
+* [Artificial Neural Network Modeling of Sustained Antihypertensive Drug Delivery using Polyelectrolyte Complex based on Carboxymethyl-kappa-carrageenan and Chitosan as Prospective Carriers](https://ieeexplore.ieee.org/document/8651985) - Sonia Lefnaoui, Samia Rebouh, Mounir Bouhedda, Madiha M. Yahoum, Salah Hanini (2018)
 
 ## Clinical trials
 * [Development of a Novel Convolution Neural Network for Arrhythmia Classification (AI-ECG)](https://clinicaltrials.gov/ct2/show/NCT03662802) - Sanjeev Bhavnani MD, Scripps Clinic
