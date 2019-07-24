@@ -77,6 +77,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Generation
 * [Blood Vessel Geometry Synthesis using Generative Adversarial Networks](https://arxiv.org/abs/1804.04381) - Jelmer M. Wolterink, Tim Leiner, Ivana Isgum (2018)
+* [Generating Multi-label Discrete Patient Records using Generative Adversarial Networks](https://arxiv.org/abs/1703.06490) - Edward Choi, Siddharth Biswal, Bradley Malin, Jon Duke, Walter F. Stewart, Jimeng Sun (2018)
 * [Electrocardiogram generation with a bidirectional LSTM-CNN generative adversarial network](https://www.nature.com/articles/s41598-019-42516-z) - Fei Zhu, Fei Ye, Yuchen Fu, Quan Liu, Bairong Shen (2019)
 
 ### Tutorials
