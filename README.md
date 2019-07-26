@@ -14,6 +14,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   + [Tutorials](#tutorials)
 * [Challenges](#challenges)
 * [Papers](#papers)
+  + [Meta reviews](#meta-reviews)
   + [Diagnostics](#diagnostics)
     - [Arrhythmias](#arrhythmias)
       * [Realtime analysis](#realtime-analysis)
@@ -93,10 +94,12 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep learning for cardiac computer-aided diagnosis: benefits, issues & solutions](http://mhealth.amegroups.com/article/view/17021/17339) - Brian C. S. Loh, Patrick H. H. Then (2017)
 * [Artificial Intelligence in Cardiology](https://www.onlinejacc.org/content/71/23/2668) - Kipp W. Johnson, Jessica Torres Soto, Benjamin S. Glicksberg, Khader Shameer, Riccardo Miotto, Mohsin Ali, Euan Ashley, Joel T. Dudley (2018)
 * [Machine learning in cardiovascular medicine: are we there yet?](https://www.ncbi.nlm.nih.gov/pubmed/29352006) - Khader Shameer, Kipp W Johnson, Benjamin S Glicksberg, Joel T Dudley, Partho P Sengupta (2018)
-* [Deep Learning in Cardiology](https://arxiv.org/abs/1902.11122) - Paschalis Bizopoulos, Dimitrios Koutsouris (2019)
 * [Deep learning for cardiovascular medicine: a practical primer](https://academic.oup.com/eurheartj/article-abstract/40/25/2058/5366208) - Chayakrit Krittanawong, Kipp W Johnson, Robert S Rosenson, Zhen Wang, Mehmet Aydar, Usman Baber, James K Min, W H Wilson Tang, Jonathan L Halperin, Sanjiv M Narayan  (2019)
 * [Blood Pressure Classification Using the Method of the Modular Neural Networks](https://www.hindawi.com/journals/ijhy/2019/7320365/) - Martha Pulido, Patricia Melin, German Prado-Arechiga (2019)
 * [Screening for cardiac contractile dysfunction using an artificial intelligence–enabled electrocardiogram](https://www.nature.com/articles/s41591-018-0240-2) - Zachi I. Attia, Suraj Kapa, Francisco Lopez-Jimenez, Paul M. McKie, Dorothy J. Ladewig, Gaurav Satam, Patricia A. Pellikka, Maurice Enriquez-Sarano, Peter A. Noseworthy, Thomas M. Munger, Samuel J. Asirvatham, Christopher G. Scott, Rickey E. Carter, Paul A. Friedman (2019)
+
+### Meta reviews
+* [Deep Learning in Cardiology](https://arxiv.org/abs/1902.11122) - Paschalis Bizopoulos, Dimitrios Koutsouris (2019)
 
 ### Diagnostics
 * [Machine Learning Approaches in Cardiovascular Imaging](https://www.ahajournals.org/doi/pdf/10.1161/CIRCIMAGING.117.005614) - Mir Henglin, Gillian  Stein, Pavel  V.  Hushcha, Jasper  Snoek, Alexander  B.  Wiltschko, Susan  Cheng (2017)
