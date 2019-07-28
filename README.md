@@ -99,6 +99,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Screening for cardiac contractile dysfunction using an artificial intelligence–enabled electrocardiogram](https://www.nature.com/articles/s41591-018-0240-2) - Zachi I. Attia, Suraj Kapa, Francisco Lopez-Jimenez, Paul M. McKie, Dorothy J. Ladewig, Gaurav Satam, Patricia A. Pellikka, Maurice Enriquez-Sarano, Peter A. Noseworthy, Thomas M. Munger, Samuel J. Asirvatham, Christopher G. Scott, Rickey E. Carter, Paul A. Friedman (2019)
 
 ### Meta reviews
+* [Artificial intelligence for precision oncology: beyond patient stratification](https://www.nature.com/articles/s41698-019-0078-1) - Francisco Azuaje (2019)
 * [Deep Learning in Cardiology](https://arxiv.org/abs/1902.11122) - Paschalis Bizopoulos, Dimitrios Koutsouris (2019)
 
 ### Diagnostics
