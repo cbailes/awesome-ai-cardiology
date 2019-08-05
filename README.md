@@ -190,7 +190,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [A Real-Time Cardiac Arrhythmia Classification System with Wearable Sensor Networks](https://pdfs.semanticscholar.org/fe24/c4b5a37190ba6cb3ed4db6ab973262efe186.pdf) - Sheng Hu, Hongxing Wei, Youdong Chen, Jindong Tan (2012)
 * [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) - Serkan Kiranyaz, Turker Ince, Moncef Gabbouj (2015)
 * [Real-Time Detection of Atrial Fibrillation from Short Time Single Lead ECG Traces Using Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-68385-0_18) - V. G. Sujadevi, K. P. Soman, R. Vinayakumar (2017)
-* [A deep learning approach for real-time detection of atrial fibrillation](https://www.sciencedirect.com/science/article/pii/S0957417418305190) - Rasmus S.AndersenAbdolrahmanPeimankarSadasivanPuthusserypady (2018)
+* [A deep learning approach for real-time detection of atrial fibrillation](https://www.sciencedirect.com/science/article/pii/S0957417418305190) - Rasmus S. Andersen, Abdolrahman Peimankar, Sadasivan Puthusserypady (2018)
 
 ##### Signal optimization
 * [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
