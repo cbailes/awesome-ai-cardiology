@@ -106,7 +106,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ### Techniques
 #### Imaging
-* [Super-resolution reconstruction of cardiac MRI using coupled dictionary learning](https://kresttechnology.com/krest-academic-projects/krest-mtech-projects/ECE/MTech%20DSP%202015-16/MTech%20DSP%20BasePaper%202015-16/61.pdf) - Kanwal K. Bhatia, Anthony N. Price, Wenzhe Shi, Jo V. Hajnal, Daniel Rueckert (2014)
+* [Super-resolution reconstruction of cardiac MRI using coupled dictionary learning](http://kresttechnology.com/krest-academic-projects/krest-mtech-projects/ECE/MTech%20DSP%202015-16/MTech%20DSP%20BasePaper%202015-16/61.pdf) - Kanwal K. Bhatia, Anthony N. Price, Wenzhe Shi, Jo V. Hajnal, Daniel Rueckert (2014)
 
 ### Diagnostics
 * [Machine Learning Approaches in Cardiovascular Imaging](https://www.ahajournals.org/doi/pdf/10.1161/CIRCIMAGING.117.005614) - Mir Henglin, Gillian  Stein, Pavel  V.  Hushcha, Jasper  Snoek, Alexander  B.  Wiltschko, Susan  Cheng (2017)
