@@ -8,7 +8,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 © 2019 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 ## Index
-* [Code](#code-repositories)
+* [Code](#code)
   + [Repositories](#repositories)
   + [Datasets](#datasets)
     - [Generation](#generation)
@@ -54,7 +54,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
       * [Drug delivery](#drug-delivery)
 * [Clinical trials](#clinical-trials)
 * [Teams](#teams)
-* [News, meta resources, and other](#news--meta-resources--and-other)
+* [News, meta resources, and other](#news--meta-resources--and-other-further-reading)
   
 ## Code
 * [Cardiac segmentation](https://paperswithcode.com/task/cardiac-segmentation) and [electrocardiography](https://paperswithcode.com/area/medical/electrocardiography-ecg) at Papers With Code
@@ -90,6 +90,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ### Tutorials
 * [ECG arrhythmia classification using a 2-D convolutional neural network](https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67) - Ankur Singh (2018)
+* [Detecting Heart Arrhythmias with Deep Learning in Keras with Dense, CNN, and LSTM](https://towardsdatascience.com/detecting-heart-arrhythmias-with-deep-learning-in-keras-with-dense-cnn-and-lstm-add337d9e41f) - Andrew Long (2019)
 
 ## Challenges
 * [Classifying Heart Sounds Challenge](http://www.peterjbentley.com/heartchallenge/) (2011-2012)
@@ -200,6 +201,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Rethinking multiscale cardiac electrophysiology with machine learning and predictive modelling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334203/) - Chris D. Cantwell, Yumnah Mohamied, Konstantinos N. Tzortzis, Stef Garasto, Charles Houston, Rasheda A. Chowdhury, Fu Siong Ng, Anil A. Bharath, Nicholas S. Peters (2019)
 * [A new approach for arrhythmia classification using deep coded features and LSTM networks](https://www.sciencedirect.com/science/article/pii/S0169260718314329) - Ozal Yildirim, Ulas Baran Baloglua, Ru-San Tan, Edward J.Ciaccio, U. Rajendra Acharya (2019)
 * [Heartbeat Anomaly Detection using Adversarial Oversampling](https://arxiv.org/abs/1901.09972) - Jefferson L. P. Lima, David Macêdo, Cleber Zanchettin (2019)
+* [Proposing feature engineering method based on deep learning and K-NNs for ECG beat classification and arrhythmia detection](https://doi.org/10.1007/s13246-019-00814-w) - Toktam Khatibi, Nooshin Rabinezhadsadatmahaleh (2019)
 * [Computer-Aided Arrhythmia Diagnosis with Bio-signal Processing: A Survey of Trends and Techniques](https://www.researchgate.net/publication/331586318_Computer-Aided_Arrhythmia_Diagnosis_with_Bio-signal_Processing_A_Survey_of_Trends_and_Techniques) - Sai Manoj, Axel Jantsch, Axel Jantsch, Muhammad Shafique, Muhammad Shafique (2019)
 
 ##### Realtime analysis
@@ -207,6 +209,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) - Serkan Kiranyaz, Turker Ince, Moncef Gabbouj (2015)
 * [Real-Time Detection of Atrial Fibrillation from Short Time Single Lead ECG Traces Using Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-68385-0_18) - V. G. Sujadevi, K. P. Soman, R. Vinayakumar (2017)
 * [A deep learning approach for real-time detection of atrial fibrillation](https://www.sciencedirect.com/science/article/pii/S0957417418305190) - Rasmus S. Andersen, Abdolrahman Peimankar, Sadasivan Puthusserypady (2018)
+* [A Real-time Arrhythmia Heartbeats Classification Algorithm using Parallel Delta Modulations and Rotated Linear-Kernel Support Vector Machines](https://doi.org/10.1109/TBME.2019.2926104)
 
 ##### Signal optimization
 * [Noise Detection in Electrocardiography Signal for Robust Heart Rate Variability Analysis: A Deep Learning Approach](https://www.researchgate.net/publication/328986749_Noise_Detection_in_Electrocardiography_Signal_for_Robust_Heart_Rate_Variability_Analysis_A_Deep_Learning_Approach) - Sardar Ansari, Jonathan Gryak, Kayvan Najarian, Kayvan Najarian (2018)
@@ -378,9 +381,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Cardiac MRI analysis @ MIT](https://www.csail.mit.edu/research/cardiac-mri-analysis)
 * [Arrhythmia detection @ Stanford University](https://stanfordmlgroup.github.io/projects/ecg2/)
 
-## News, meta resources, and other
+## News, meta resources, and other further reading
 * [Stanford computer scientists develop an algorithm that diagnoses heart arrhythmias with cardiologist-level accuracy](https://news.stanford.edu/2017/07/06/algorithm-diagnoses-heart-arrhythmias-cardiologist-level-accuracy/) - Taylor Kubota (2017)
 * [How AI based arrhythmia detector can explain its decisions](https://medium.com/mawi-band/how-ai-based-arrhythmia-detector-can-explain-its-decisions-b4f433faa4a2) - Artem Bachynskyi (2018)
 * [Machine learning overtakes humans in predicting death or heart attack](https://www.escardio.org/The-ESC/Press-Office/Press-releases/machine-learning-overtakes-humans-in-predicting-death-or-heart-attack) - European Society of Cardiology (2019)
 * [Artificial Intelligence and Echocardiography](https://www.acc.org/latest-in-cardiology/articles/2019/06/18/07/43/artificial-intelligence-and-echocardiography) - Akhil Narang, Roberto M. Lang (2019)
+* [Artificial Intelligence examining ECGs predicts irregular heartbeat, death risk](https://newsroom.heart.org/news/artificial-intelligence-examining-ecgs-predicts-irregular-heartbeat-death-risk) - American Heart Association (2019)
+* [Applied Topological Data Analysis to Deep Learning? Hands-on Arrhythmia Classification!](https://towardsdatascience.com/applied-topological-data-analysis-to-deep-learning-hands-on-arrhythmia-classification-48993d78f9e6) - Dindin Meryll (2019)
 * [Applications for Artificial Intelligence in Cardiovascular Imaging](https://www.dicardiology.com/article/applications-artificial-intelligence-cardiovascular-imaging) - Dave Fornell, Diagnostic and Interventional Cardiology (2019)
