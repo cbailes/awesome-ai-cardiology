@@ -8,7 +8,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 © 2019 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 ## Index
-* [Code repositories](#code-repositories)
+* [Code](#code-repositories)
+  + [Repositories](#repositories)
   + [Datasets](#datasets)
     - [Generation](#generation)
   + [Tutorials](#tutorials)
@@ -55,7 +56,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Teams](#teams)
 * [News, meta resources, and other](#news--meta-resources--and-other)
   
-## Code repositories
+## Code
+* [Cardiac segmentation](https://paperswithcode.com/task/cardiac-segmentation) and [electrocardiography](https://paperswithcode.com/area/medical/electrocardiography-ecg) at Papers With Code
+
+### Repositories
 * [ahaque/arrhythmia-nn](https://github.com/ahaque/arrhythmia-nn) - [[Paper](http://cs229.stanford.edu/proj2014/Albert%20Haque,%20Cardiac%20Dysrhythmia%20Detection%20with%20GPU-Accelerated%20Neural%20Networks.pdf)] - Neural network for detecting cardiac dysrhythmia
 * [awni/ecg](https://github.com/awni/ecg) - Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
 * [limagbz/arrhythmia-alarms](https://github.com/limagbz/arrhythmia-alarms) - Detecting false arrhythmia alarms in the ICU using Convolutional Neural Networks
