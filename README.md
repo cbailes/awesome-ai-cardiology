@@ -17,6 +17,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   + [Meta reviews](#meta-reviews)
   + [Techniques](#techniques)
     - [Imaging](#imaging)
+    - [Neuromorphic classification](#neuromorphic-classification)
   + [Diagnostics](#diagnostics)
     - [Arrhythmias](#arrhythmias)
       * [Realtime analysis](#realtime-analysis)
@@ -107,6 +108,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ### Techniques
 #### Imaging
 * [Super-resolution reconstruction of cardiac MRI using coupled dictionary learning](http://kresttechnology.com/krest-academic-projects/krest-mtech-projects/ECE/MTech%20DSP%202015-16/MTech%20DSP%20BasePaper%202015-16/61.pdf) - Kanwal K. Bhatia, Anthony N. Price, Wenzhe Shi, Jo V. Hajnal, Daniel Rueckert (2014)
+
+#### Neuromorphic classification
+* [Designing Neuromorphic Computing Systems with Memristor Devices](http://d-scholarship.pitt.edu/id/eprint/36830) - Amr Mahmoud (2019)
 
 ### Diagnostics
 * [Machine Learning Approaches in Cardiovascular Imaging](https://www.ahajournals.org/doi/pdf/10.1161/CIRCIMAGING.117.005614) - Mir Henglin, Gillian  Stein, Pavel  V.  Hushcha, Jasper  Snoek, Alexander  B.  Wiltschko, Susan  Cheng (2017)
@@ -331,6 +335,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ##### Coronary artery bypass
 * [Deep Learning Approach for Predicting 30 Day Readmissions after Coronary Artery Bypass Graft Surgery](https://arxiv.org/abs/1812.00596) - Ramesh B. Manyam, Yanqing Zhang, William B. Keeling, Jose Binongo, Michael Kayatta, Seth Carter (2018)
+
+### Simulation
+* [ECG Generation With Sequence Generative Adversarial Nets Optimized by Policy Gradient](https://doi.org/10.1109/ACCESS.2019.2950383) - Fei Ye, Fei Zhu, Yuchen Fu, Bairong Shen (2019)
+* [Synthesis of Realistic ECG using Generative Adversarial Networks](https://arxiv.org/abs/1909.09150) Anne Marie Delaney, Eoin Brophy, Tomas E. Ward - (2019)
 
 ### Identification
 #### Devices
